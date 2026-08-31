@@ -1,0 +1,4333 @@
+{
+  "id": 2,
+  "label": "2-ci qrup",
+  "year": 2026,
+  "sourceUrl": "https://qebulol.az/2-ci-qrup-kecid-ballari-2026/",
+  "scrapedAt": "2026-08-31T18:49:31.930161Z",
+  "universities": [
+    {
+      "name": "Bakı Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 359.7,
+          "previousScore": 359.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosiologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 345.9,
+          "previousScore": 345.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosiologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 353.7,
+          "previousScore": 353.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 308.0,
+          "previousScore": 417.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 315.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 242.4,
+          "previousScore": 442.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 452.0,
+          "previousScore": 452.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 341.8,
+          "previousScore": 500.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 478.3,
+          "previousScore": 495.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 275.1,
+          "previousScore": 409.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Coğrafiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 324.9,
+          "previousScore": 324.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Hidrometeorologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 304.5,
+          "previousScore": 304.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Statistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 366.6,
+          "previousScore": 366.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 349.9,
+          "previousScore": 349.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 358.7,
+          "previousScore": 358.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 251.5,
+          "previousScore": 274.1,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 155.1,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 159.4,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Neft və Sənaye Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 315.6,
+          "previousScore": 417.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 303.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 329.6,
+          "previousScore": 502.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 326.6,
+          "previousScore": 444.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 446.1,
+          "previousScore": 446.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 288.6,
+          "previousScore": 383.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 397.9,
+          "previousScore": 397.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 278.0,
+          "previousScore": 407.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 322.1,
+          "previousScore": 408.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Texniki Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 305.3,
+          "previousScore": 418.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 287.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 298.7,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 303.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 289.1,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 321.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 280.6,
+          "previousScore": 383.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 272.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Statistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 360.6,
+          "previousScore": 360.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyatda servis (avtomobil nəqliyyat üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 314.2,
+          "previousScore": 314.2,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Memarlıq və İnşaat Universiteti",
+      "programs": [
+        {
+          "programName": "Davamlı inkişaf",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 229.2,
+          "previousScore": 399.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 271.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 242.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 276.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 96.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 261.6,
+          "previousScore": 383.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 239.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 294.4,
+          "previousScore": 384.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 245.0,
+          "previousScore": 408.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 96.3,
+          "previousScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Pedaqoji Universiteti",
+      "programs": [
+        {
+          "programName": "Coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 278.2,
+          "previousScore": 343.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 365.2,
+          "previousScore": 365.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 342.3,
+          "previousScore": 342.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 246.9,
+          "previousScore": 274.5,
+          "isSubBachelor": false,
+          "branch": "Şamaxı filialı"
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 298.1,
+          "previousScore": 298.1,
+          "isSubBachelor": false,
+          "branch": "Şəki filialı"
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 219.6,
+          "previousScore": 275.2,
+          "isSubBachelor": false,
+          "branch": "Cəlilabad filialı"
+        },
+        {
+          "programName": "Coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 359.8,
+          "isSubBachelor": false,
+          "branch": "Quba filialı"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət İqtisad Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 354.4,
+          "previousScore": 418.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 425.8,
+          "previousScore": 425.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 77.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 560.8,
+          "previousScore": 560.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 324.8,
+          "previousScore": 577.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 357.0,
+          "previousScore": 501.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 251.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 581.5,
+          "previousScore": 581.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 297.3,
+          "previousScore": 392.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 322.2,
+          "previousScore": 388.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 90.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 350.6,
+          "previousScore": 442.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 467.3,
+          "previousScore": 467.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 99.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 593.8,
+          "previousScore": 593.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 386.8,
+          "previousScore": 494.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 527.6,
+          "previousScore": 527.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 235.3,
+          "previousScore": 533.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 605.6,
+          "previousScore": 605.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 383.6,
+          "previousScore": 383.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 393.8,
+          "previousScore": 393.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 249.4,
+          "previousScore": 393.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 335.3,
+          "previousScore": 406.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 97.1,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 393.3,
+          "previousScore": 393.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 429.5,
+          "previousScore": 429.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 412.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 97.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 558.4,
+          "previousScore": 558.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Statistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 376.8,
+          "previousScore": 376.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 196.5,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 68.2,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 74.4,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 72.5,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 182.3,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 71.7,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 397.3,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 70.4,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 171.9,
+          "previousScore": 341.1,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        }
+      ]
+    },
+    {
+      "name": "Bakı Mühəndislik Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 238.4,
+          "previousScore": 424.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 68.2,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 260.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 225.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 284.2,
+          "previousScore": 547.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 221.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 86.2,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 243.0,
+          "previousScore": 450.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 94.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 207.1,
+          "previousScore": 443.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 263.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 94.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 274.6,
+          "previousScore": 519.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 253.2,
+          "previousScore": 392.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 211.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 376.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 95.3,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 93.5,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 385.7,
+          "previousScore": 385.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Nəqliyyatda servis (avtomobil nəqliyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 309.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyatda servis (avtomobil nəqliyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 80.4,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Nəqliyyatda servis (avtomobil nəqliyyatı üzrə)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyatda servis (avtomobil nəqliyyatı üzrə)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 81.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 244.1,
+          "previousScore": 258.3,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası",
+      "programs": [
+        {
+          "programName": "Davamlı inkişaf",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 405.5,
+          "previousScore": 405.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 437.0,
+          "previousScore": 437.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 517.9,
+          "previousScore": 517.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 412.0,
+          "previousScore": 412.0,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "ADA Universiteti",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 551.1,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 624.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 598.2,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 637.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 608.7,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti",
+      "programs": [
+        {
+          "programName": "Sosiologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 303.8,
+          "previousScore": 303.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 272.8,
+          "previousScore": 272.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 298.0,
+          "previousScore": 298.0,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Turizm və Menecment Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 246.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 265.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 211.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 250.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 96.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 288.8,
+          "previousScore": 288.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 201.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 308.6,
+          "previousScore": 308.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 213.2,
+          "previousScore": 284.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 321.2,
+          "previousScore": 321.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan İdman Akademiyası",
+      "programs": [
+        {
+          "programName": "İdman menecmenti və kommunikasiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 278.2,
+          "previousScore": 278.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İdman menecmenti və kommunikasiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 278.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İdman menecmenti və kommunikasiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 91.3,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İdman menecmenti və kommunikasiya",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İdman menecmenti və kommunikasiya",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 92.5,
+          "previousScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Milli Aviasiya Akademiyası",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 272.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 282.4,
+          "previousScore": 443.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 319.3,
+          "previousScore": 500.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 524.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 251.4,
+          "previousScore": 409.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Hidrometeorologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 318.4,
+          "previousScore": 318.4,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Ali Neft Məktəbi",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 609.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 422.2,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 653.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 535.5,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Dövlət Gömrük Komitəsinin Akademiyası",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 435.6,
+          "previousScore": 435.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 497.5,
+          "previousScore": 497.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 445.2,
+          "previousScore": 445.2,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Qarabağ Universiteti",
+      "programs": [
+        {
+          "programName": "Coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 215.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 259.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 250.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 299.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 224.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 292.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 301.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 201.6,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Naxçıvan Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 355.3,
+          "previousScore": 355.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 341.7,
+          "previousScore": 418.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 321.7,
+          "previousScore": 393.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 368.0,
+          "previousScore": 442.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 248.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 468.0,
+          "previousScore": 468.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 363.5,
+          "previousScore": 501.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 287.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 298.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 376.9,
+          "previousScore": 376.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 97.1,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Coğrafiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 326.0,
+          "previousScore": 326.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 293.0,
+          "previousScore": 293.0,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 222.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 210.8,
+          "previousScore": 466.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 89.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 279.7,
+          "previousScore": 460.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 256.5,
+          "previousScore": 506.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 88.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 187.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 420.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 78.3,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 390.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 82.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 88.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 389.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Gəncə Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 292.6,
+          "previousScore": 344.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 323.5,
+          "previousScore": 323.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 217.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 190.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 77.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 85.2,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 91.6,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 85.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 182.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 172.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 82.4,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 401.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 82.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 174.5,
+          "previousScore": 230.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 157.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 177.4,
+          "previousScore": 270.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 167.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Texnologiya Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 72.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 403.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 83.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 443.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 84.1,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 90.1,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 180.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 170.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 77.4,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 78.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 89.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Nəqliyyatda servis (avtomobil nəqliyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyatda servis (avtomobil nəqliyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 74.3,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 158.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 155.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 163.5,
+          "previousScore": 334.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 162.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Sumqayıt Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 335.3,
+          "previousScore": 335.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 56.5,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 70.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 251.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 213.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 229.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 93.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 249.5,
+          "previousScore": 519.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 93.2,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 245.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 208.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 90.6,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 91.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 376.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 92.1,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 92.3,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 279.9,
+          "previousScore": 279.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 204.6,
+          "previousScore": 283.2,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Mingəçevir Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 213.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 182.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 70.6,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 84.3,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 479.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 80.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 91.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 82.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 89.6,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 189.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 168.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 408.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 75.3,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 88.2,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 389.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 75.5,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 88.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 162.0,
+          "previousScore": 214.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 156.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 172.9,
+          "previousScore": 262.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 161.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Lənkəran Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 431.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 232.3,
+          "previousScore": 274.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 216.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 178.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 455.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 72.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 88.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 504.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 71.6,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 88.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 189.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 170.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 440.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 69.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 87.5,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 427.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 69.3,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 87.2,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 170.3,
+          "previousScore": 256.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 155.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 174.8,
+          "previousScore": 311.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 160.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Kooperasiya Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 198.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 185.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 74.6,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 85.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 79.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 90.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 76.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 92.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 190.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 179.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 80.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 91.6,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 79.4,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 91.6,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 184.5,
+          "previousScore": 268.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 173.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 177.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 187.8,
+          "previousScore": 271.1,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "“Azərbaycan ” Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 244.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 210.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 258.9,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 90.5,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 84.5,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 91.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 82.9,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 229.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 198.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 253.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 85.6,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 84.1,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 80.9,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 215.1,
+          "previousScore": 255.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 189.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 224.3,
+          "previousScore": 267.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Qərbi Kaspi Universiteti",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 207.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 191.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 73.5,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 86.6,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 73.2,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 86.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 201.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 182.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 70.4,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 86.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 183.4,
+          "previousScore": 214.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 186.9,
+          "previousScore": 267.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 196.0,
+          "previousScore": 257.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 176.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Xəzər Universiteti",
+      "programs": [
+        {
+          "programName": "Coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 344.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 345.6,
+          "previousScore": 345.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 238.5,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 444.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 494.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 228.7,
+          "previousScore": 387.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 440.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 59.7,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 375.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 67.5,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 285.8,
+          "previousScore": 285.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Bakı Avrasiya Universiteti",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 220.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 222.4,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 68.2,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 78.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 76.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 211.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 191.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 74.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 74.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 202.4,
+          "previousScore": 256.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 184.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Qızlar Universiteti",
+      "programs": [
+        {
+          "programName": "Coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "“Odlar Yurdu ” Universiteti",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 195.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 232.6,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 230.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 72.5,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 80.9,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 84.3,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 70.5,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 84.3,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 186.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 227.5,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 214.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 97.5,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 70.5,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 81.1,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 97.1,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 70.0,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 79.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 180.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 209.5,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 202.6,
+          "previousScore": 259.5,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Biznes Universiteti",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 218.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 195.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 72.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 83.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 91.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 79.5,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 81.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 203.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 187.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 80.6,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 90.6,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 77.5,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 90.2,
+          "previousScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Əmək və Sosial Münasibətlər Akademiyası",
+      "programs": [
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 72.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 84.4,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 76.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 206.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 190.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 92.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 76.1,
+          "previousScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    }
+  ]
+}

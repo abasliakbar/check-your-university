@@ -1,0 +1,3097 @@
+{
+  "id": 3,
+  "label": "3-ci qrup",
+  "year": 2026,
+  "sourceUrl": "https://qebulol.az/3-cu-qrup-kecid-ballari-2026/",
+  "scrapedAt": "2026-08-31T18:49:32.920887Z",
+  "universities": [
+    {
+      "name": "Bakı Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 572.5,
+          "previousScore": 572.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xüsusi pedaqogika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 458.4,
+          "previousScore": 458.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 515.6,
+          "previousScore": 515.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 527.1,
+          "previousScore": 527.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 481.7,
+          "previousScore": 481.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 407.6,
+          "previousScore": 481.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 499.7,
+          "previousScore": 499.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Dövlət və ictimai münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 537.5,
+          "previousScore": 609.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və ictimai münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 597.4,
+          "previousScore": 608.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Fəlsəfə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 380.5,
+          "previousScore": 422.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (ərəb dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 335.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (fars dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 297.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (türk dili və ədəbiyyatı üzrə) Filologiya (Azərbaycan dili və O 451.1 (498.2) ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 384.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (Azərbaycan dili və ədəbiyyatı üzrə)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 372.5,
+          "previousScore": 579.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (alman dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 417.8,
+          "previousScore": 504.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (fransız dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 360.9,
+          "previousScore": 651.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (ingilis dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 512.7,
+          "previousScore": 512.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Hüquqşünaslıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 621.7,
+          "previousScore": 621.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Hüquqşünaslıq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 566.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Hüquqşünaslıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 664.5,
+          "previousScore": 664.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kitabxanaçılıq və informasiya fəaliyyəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 334.2,
+          "previousScore": 412.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kitabxanaçılıq və informasiya fəaliyyəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 412.3,
+          "previousScore": 412.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Politologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 460.4,
+          "previousScore": 535.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünashq (Qafqaz ölkələri üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 311.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünashq (Amerika üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 363.0,
+          "previousScore": 408.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünashq (ərəb ölkələri üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 285.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünashq (İran üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 249.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünashq (Türkiyə üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 327.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünashq (İsrail üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 298.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünashq (Pakistan üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 270.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünashq (Koreya üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 350.4,
+          "previousScore": 408.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünashq (Yaponiya üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 342.0,
+          "previousScore": 412.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünashq (Qafqaz ölkələri üzrə, tədris ingilis dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 267.4,
+          "previousScore": 410.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünashq (Amerika üzrə, tədris ingilis dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 407.7,
+          "previousScore": 407.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 475.3,
+          "previousScore": 520.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 397.1,
+          "previousScore": 530.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 562.1,
+          "previousScore": 562.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Tərcümə (ərəb dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 335.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (fars dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 283.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Muzey, arxiv işi və abidələrin qorunması",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 409.4,
+          "previousScore": 409.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 505.4,
+          "previousScore": 505.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 536.1,
+          "previousScore": 536.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Jurnalistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 419.8,
+          "previousScore": 423.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Jurnalistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 479.9,
+          "previousScore": 479.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 312.1,
+          "previousScore": 438.6,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        },
+        {
+          "programName": "Filologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 312.7,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Azərbaycan dili və ədəbiyyat, Qazax filialı"
+        },
+        {
+          "programName": "Filologiya",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 324.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Azərbaycan dili və ədəbiyyat, Qazax filialı"
+        },
+        {
+          "programName": "Tarix",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 324.9,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        },
+        {
+          "programName": "Tarix",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 320.8,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 308.6,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 306.6,
+          "previousScore": 472.5,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Pedaqoji Universiteti",
+      "programs": [
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 522.7,
+          "previousScore": 522.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dil və ədəbiyyat müəllimliyi (türk dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 360.9,
+          "previousScore": 461.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 480.8,
+          "previousScore": 553.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (fransız dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 344.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xüsusi pedaqogika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 373.4,
+          "previousScore": 448.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xüsusi pedaqogika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 393.1,
+          "previousScore": 447.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İbtidai sinif müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 431.0,
+          "previousScore": 475.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İbtidai sinif müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 480.4,
+          "previousScore": 480.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 407.2,
+          "previousScore": 421.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 391.3,
+          "previousScore": 423.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 468.0,
+          "previousScore": 506.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 444.5,
+          "previousScore": 444.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (Azərbaycan dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 408.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 464.1,
+          "previousScore": 464.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 411.3,
+          "previousScore": 551.0,
+          "isSubBachelor": false,
+          "branch": "Şamaxı filialı"
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 310.5,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Şamaxı filialı"
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 386.1,
+          "previousScore": 511.0,
+          "isSubBachelor": false,
+          "branch": "Şamaxı filialı"
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 325.4,
+          "previousScore": 496.6,
+          "isSubBachelor": false,
+          "branch": "Şamaxı filialı"
+        },
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 402.5,
+          "previousScore": 529.7,
+          "isSubBachelor": false,
+          "branch": "Şəki filialı"
+        },
+        {
+          "programName": "Xarici dil müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 417.6,
+          "previousScore": 555.3,
+          "isSubBachelor": false,
+          "branch": "ingilis dili üzrə, Şəki filialı"
+        },
+        {
+          "programName": "İbtidai sinif müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 379.6,
+          "previousScore": 475.3,
+          "isSubBachelor": false,
+          "branch": "Şəki filialı"
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 322.7,
+          "previousScore": 427.4,
+          "isSubBachelor": false,
+          "branch": "Şəki filialı"
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 391.0,
+          "previousScore": 513.6,
+          "isSubBachelor": false,
+          "branch": "Şəki filialı"
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 330.6,
+          "previousScore": 436.6,
+          "isSubBachelor": false,
+          "branch": "Şəki filialı"
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 346.3,
+          "previousScore": 465.2,
+          "isSubBachelor": false,
+          "branch": "Şəki filialı"
+        },
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 395.6,
+          "previousScore": 559.4,
+          "isSubBachelor": false,
+          "branch": "Ağcabədi filialı"
+        },
+        {
+          "programName": "Xarici dil müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 400.2,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "ingilis dili üzrə, Ağcabədi filialı"
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 316.2,
+          "previousScore": 424.2,
+          "isSubBachelor": false,
+          "branch": "Ağcabədi filialı"
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 375.8,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Ağcabədi filialı"
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 332.6,
+          "previousScore": 454.9,
+          "isSubBachelor": false,
+          "branch": "Ağcabədi filialı"
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 314.6,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Ağcabədi filialı"
+        },
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 413.3,
+          "previousScore": 530.9,
+          "isSubBachelor": false,
+          "branch": "Cəlilabad filialı"
+        },
+        {
+          "programName": "İbtidai sinif müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 375.3,
+          "previousScore": 481.2,
+          "isSubBachelor": false,
+          "branch": "Cəlilabad filialı"
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 306.5,
+          "previousScore": 451.9,
+          "isSubBachelor": false,
+          "branch": "Cəlilabad filialı"
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 329.6,
+          "previousScore": 433.2,
+          "isSubBachelor": false,
+          "branch": "Cəlilabad filialı"
+        },
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 412.4,
+          "previousScore": 526.0,
+          "isSubBachelor": false,
+          "branch": "Quba filialı"
+        },
+        {
+          "programName": "Xarici dil müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 405.7,
+          "previousScore": 578.5,
+          "isSubBachelor": false,
+          "branch": "ingilis dili üzrə, Quba filialı"
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 313.1,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Quba filialı"
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 385.4,
+          "previousScore": 512.0,
+          "isSubBachelor": false,
+          "branch": "Quba filialı"
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 349.2,
+          "previousScore": 435.8,
+          "isSubBachelor": false,
+          "branch": "Quba filialı"
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 320.9,
+          "previousScore": 471.6,
+          "isSubBachelor": false,
+          "branch": "Quba filialı"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət İqtisad Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 390.8,
+          "previousScore": 480.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 429.5,
+          "previousScore": 480.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 487.4,
+          "previousScore": 487.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 373.6,
+          "previousScore": 458.1,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dillər Universiteti",
+      "programs": [
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 542.8,
+          "previousScore": 542.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dil və ədəbiyyat müəllimliyi (ingilis dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 550.5,
+          "previousScore": 550.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dil və ədəbiyyat müəllimliyi (alman dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 479.9,
+          "previousScore": 479.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dil və ədəbiyyat müəllimliyi (fransız dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 356.0,
+          "previousScore": 460.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 482.5,
+          "previousScore": 551.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (alman dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 427.7,
+          "previousScore": 580.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (fransız dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 358.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xüsusi pedaqogika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 392.1,
+          "previousScore": 448.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 441.3,
+          "previousScore": 441.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 474.5,
+          "previousScore": 474.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 387.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 425.8,
+          "previousScore": 488.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Filologiya (ingilis dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 497.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (alman dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 408.7,
+          "previousScore": 511.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (fransız dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 355.5,
+          "previousScore": 519.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (ispan dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 384.9,
+          "previousScore": 506.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (Azərbaycan dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 431.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Böyük Britaniya üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 305.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Almaniya üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 331.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Fransa üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 292.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Amerika üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 319.6,
+          "previousScore": 418.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Norveç üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 288.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Qafqaz ölkələri üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 278.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (İsrail və Yaxın Şərq ölkələri üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 275.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Yaponiya üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 313.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (ərəb ölkələri üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 274.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Çin üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 361.6,
+          "previousScore": 423.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Cənubi Amerika üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 288.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Mərkəzi və Şərqi Avropa üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 304.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Rusiya üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 272.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Türkiyə üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 298.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Balkan ölkələri üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 271.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Afrika üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 235.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Hindistan üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 229.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Pakistan üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 245.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Böyük Britaniya üzrə, tədris ingilis dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 338.2,
+          "previousScore": 454.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Amerika üzrə, tədris ingilis dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 351.9,
+          "previousScore": 409.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 487.7,
+          "previousScore": 487.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (alman dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 489.4,
+          "previousScore": 489.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (fransız dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 389.6,
+          "previousScore": 492.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (ispan dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 425.8,
+          "previousScore": 489.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (Koreya dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 520.5,
+          "previousScore": 520.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (rus dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 344.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (ərəb dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 328.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (erməni dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 376.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Jurnalistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 399.0,
+          "previousScore": 424.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Bakı Slavyan Universiteti",
+      "programs": [
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 477.6,
+          "previousScore": 518.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (rus dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 304.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 478.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (alman dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 413.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (fransız dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 352.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xüsusi pedaqogika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 390.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İbtidai sinif müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 448.4,
+          "previousScore": 475.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 398.7,
+          "previousScore": 423.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 443.8,
+          "previousScore": 443.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 370.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 310.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (Azərbaycan dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 400.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (ingilis dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 414.0,
+          "previousScore": 501.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (türk dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 350.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Xəzəryanı ölkələr üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 251.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Şərqi Avropa ölkələri üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 252.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Balkan ölkələri üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 240.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Mərkəzi Asiya ölkələri üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 240.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Qərbi Avropa ölkələri üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 281.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (Azərbaycan dili-ingilis dili)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 435.9,
+          "previousScore": 487.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (Azərbaycan dili-rus dili)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 292.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (Azərbaycan dili-bolqar dili)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 275.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (Azərbaycan dili-yunan dili)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 290.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (Azərbaycan dili-alman dili)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 393.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (Azərbaycan dili-çex dili)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 275.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (Azərbaycan dili-polyak dili)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 290.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (Azərbaycan dili-Ukrayna dili)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 282.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (Azərbaycan dili-fransız dili)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 355.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Jurnalistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 394.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası",
+      "programs": [
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 511.4,
+          "previousScore": 511.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və ictimai münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 599.4,
+          "previousScore": 609.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Hüquqşünaslıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 655.4,
+          "previousScore": 655.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Politologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 580.2,
+          "previousScore": 580.2,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "ADA Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 562.6,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Dövlət və ictimai münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 604.7,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Hüquqşünaslıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 633.6,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kommunikasiya və rəqəmsal media",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 589.2,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti",
+      "programs": [
+        {
+          "programName": "Kitabxanaçılıq və informasiya fəaliyyəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 315.7,
+          "previousScore": 416.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ədəbi yaradıcılıq və ekran dramaturgiyası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 388.3,
+          "previousScore": 388.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Muzey, arxiv işi və abidələrin qorunması",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 300.5,
+          "previousScore": 402.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sənətşünaslıq (teatrşünaslıq)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 367.5,
+          "previousScore": 367.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sənətşünaslıq (kinoşünashq)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 367.5,
+          "previousScore": 367.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sənətşünaslıq (təsviri sənətin tarixi və nəzəriyyəsi)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 306.2,
+          "previousScore": 367.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 392.3,
+          "previousScore": 459.0,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Rəssamlıq Akademiyası",
+      "programs": [
+        {
+          "programName": "Sənətşünaslıq (təsviri incəsənət tarixi və nəzəriyyəsi, incəsənət əsərlərinin bərpası və ekspertizası)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 269.1,
+          "previousScore": 367.2,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Turizm və Menecment Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 361.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (ingilis dili-Azərbaycan dili)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 388.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Muzey, arxiv işi və abidələrin qorunması",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 307.7,
+          "previousScore": 402.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 395.1,
+          "previousScore": 456.8,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Milli Aviasiya Akademiyası",
+      "programs": [
+        {
+          "programName": "Hüquqşünaslıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 602.9,
+          "previousScore": 611.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Hüquqşünaslıq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 561.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Hüquqşünaslıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 618.5,
+          "previousScore": 618.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Dövlət Gömrük Komitəsinin Akademiyası",
+      "programs": [
+        {
+          "programName": "Hüquqşünaslıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 607.9,
+          "previousScore": 611.1,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Qarabağ Universiteti",
+      "programs": [
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 424.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 477.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İbtidai sinif müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 284.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 469.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 344.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Hüquqşünaslıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 590.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 379.1,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Naxçıvan Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 465.4,
+          "previousScore": 520.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 510.3,
+          "previousScore": 555.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (fransız dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 293.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (alman dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 325.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (rus dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 298.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 440.6,
+          "previousScore": 513.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 280.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 323.7,
+          "previousScore": 490.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Dövlət və ictimai münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 492.2,
+          "previousScore": 609.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (Azərbaycan dili və ədəbiyyat üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 355.1,
+          "previousScore": 497.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (Azərbaycan dili və ədəbiyyat üzrə)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 292.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Hüquqşünaslıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 577.1,
+          "previousScore": 612.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Hüquqşünaslıq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 547.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kitabxanaçılıq və informasiya fəaliyyəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 273.8,
+          "previousScore": 452.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kitabxanaçılıq və informasiya fəaliyyəti",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 263.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 373.5,
+          "previousScore": 523.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 294.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (ingilis dili – Azərbaycan dili)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 379.1,
+          "previousScore": 488.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (fars dili- Azərbaycan dili)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 249.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (ərəb dili-Azərbaycan dili)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 245.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Muzey, arxiv işi və abidələrin qorunması",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 263.1,
+          "previousScore": 409.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Muzey, arxiv işi və abidələrin qorunması",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 257.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 454.4,
+          "previousScore": 458.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Jurnalistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 310.9,
+          "previousScore": 437.4,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Naxçıvan Müəllimlər İnstitutu",
+      "programs": [
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 378.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 387.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xüsusi pedaqogika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 308.2,
+          "previousScore": 459.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 294.1,
+          "previousScore": 425.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 362.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 329.7,
+          "previousScore": 449.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kitabxanaçılıq və informasiya fəaliyyəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 259.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Gəncə Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 486.5,
+          "previousScore": 520.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 485.9,
+          "previousScore": 558.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (rus dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 316.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (alman dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 328.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (fransız dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 295.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 362.3,
+          "previousScore": 423.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 463.6,
+          "previousScore": 508.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 403.4,
+          "previousScore": 435.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (Azərbaycan dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 364.8,
+          "previousScore": 504.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 402.2,
+          "previousScore": 520.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 355.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 381.7,
+          "previousScore": 457.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 338.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Sumqayıt Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 459.3,
+          "previousScore": 524.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 468.6,
+          "previousScore": 561.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xüsusi pedaqogika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 363.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İbtidai sinif müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 429.2,
+          "previousScore": 477.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 386.5,
+          "previousScore": 424.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 449.8,
+          "previousScore": 516.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 416.9,
+          "previousScore": 432.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (Azərbaycan dili və ədəbiyyat üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 376.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Politologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 366.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 418.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 390.2,
+          "previousScore": 457.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 355.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Mingəçevir Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 431.7,
+          "previousScore": 521.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dil və ədəbiyyat müəllimliyi (ingilis dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 418.2,
+          "previousScore": 464.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 451.1,
+          "previousScore": 556.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İbtidai sinif müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 399.1,
+          "previousScore": 505.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 328.9,
+          "previousScore": 429.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 427.9,
+          "previousScore": 517.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 366.3,
+          "previousScore": 435.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (Azərbaycan dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 331.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 368.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 340.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Lənkəran Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 419.4,
+          "previousScore": 519.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 430.2,
+          "previousScore": 559.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 313.0,
+          "previousScore": 440.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 399.3,
+          "previousScore": 517.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 342.2,
+          "previousScore": 439.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Muzey, arxiv işi və abidələrin qorunması",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 268.2,
+          "previousScore": 405.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Muzey, arxiv işi və abidələrin qorunması",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 280.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 353.7,
+          "previousScore": 456.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 299.9,
+          "previousScore": 482.3,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan İlahiyyat İnstitutu",
+      "programs": [
+        {
+          "programName": "Dinşünaslıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 304.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İslamşünaslıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 172.9,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Kooperasiya Universiteti",
+      "programs": [
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 295.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Avropa ölkələri üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 215.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 278.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Muzey, arxiv işi və abidələrin qorunması",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 253.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 289.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 270.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "“Azərbaycan ” Universiteti",
+      "programs": [
+        {
+          "programName": "Xüsusi pedaqogika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 341.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 409.7,
+          "previousScore": 432.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 304.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və ictimai münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 403.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fəlsəfə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 289.3,
+          "previousScore": 429.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (Azərbaycan dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 347.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (ingilis dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 326.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Politologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 321.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Avropa ölkələri üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 233.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 375.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 297.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Muzey, arxiv işi və abidələrin qorunması",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 273.7,
+          "previousScore": 404.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 313.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 326.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 342.1,
+          "previousScore": 457.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Qərbi Kaspi Universiteti",
+      "programs": [
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 320.2,
+          "previousScore": 434.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 255.4,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 286.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fəlsəfə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 277.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (ingilis dili və ədəbiyyatı üzrə, tədris ingilis dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 283.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (Azərbaycan dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 297.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Amerika, Böyük Britaniya, Almaniya və Çin üzrə, tədris ingilis dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 226.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Amerika, Böyük Britaniya, Almaniya və Çin üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 227.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 260.4,
+          "previousScore": 554.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Tarix",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 308.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 288.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 294.3,
+          "previousScore": 465.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 289.8,
+          "previousScore": 483.2,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Xəzər Universiteti",
+      "programs": [
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 527.3,
+          "previousScore": 527.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (ingilis dili üzrə, tədris ingilis dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 578.0,
+          "previousScore": 578.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İbtidai sinif müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 402.7,
+          "previousScore": 476.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İbtidai sinif müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 503.8,
+          "previousScore": 503.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 434.1,
+          "previousScore": 507.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 348.5,
+          "previousScore": 493.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Filologiya (Azərbaycan dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 319.2,
+          "previousScore": 502.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (ingilis dili və ədəbiyyatı üzrə, tədris ingilis dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 318.4,
+          "previousScore": 500.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Politologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 283.0,
+          "previousScore": 534.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Regionşünaslıq (Amerika, Avropa, Asiya və Şərq ölkələri, tədris ingilis dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 230.5,
+          "previousScore": 423.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (ingilis, ərəb, fars və çin dilləri, tədris ingilis dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 349.1,
+          "previousScore": 487.4,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Avrasiya Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 309.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 268.4,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Filologiya (Azərbaycan dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 331.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (türk dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 283.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (ingilis dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 304.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (ABŞ və Kanada)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 231.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Avropa ölkələri)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 225.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Regionşünaslıq (Yaxın və Orta Şərq ölkələri)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 219.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 301.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (alman dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 302.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (fransız dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 283.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (ərəb dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 267.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 312.6,
+          "previousScore": 464.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 305.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Qızlar Universiteti",
+      "programs": [
+        {
+          "programName": "Azərbaycan dili və ədəbiyyatı müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 406.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xarici dil müəllimliyi (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 415.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 348.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 398.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 351.6,
+          "previousScore": 432.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (Azərbaycan dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 332.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (ingilis dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 281.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 306.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "“Odlar Yurdu ” Universiteti",
+      "programs": [
+        {
+          "programName": "Xarici dil müəllimliyi (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 403.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məktəbəqədər təhsil",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 301.0,
+          "previousScore": 425.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təhsildə sosial-psixoloji xidmət",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 314.1,
+          "previousScore": 432.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq münasibətlər",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 267.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (Azərbaycan dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 288.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Filologiya (ingilis dili və ədəbiyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 297.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tərcümə (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 287.7,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 301.5,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 312.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Biznes Universiteti",
+      "programs": [
+        {
+          "programName": "Tərcümə (ingilis dili üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 291.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 296.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 302.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Əmək və Sosial Münasibətlər Akademiyası",
+      "programs": [
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 316.1,
+          "previousScore": 474.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosial iş",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 332.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    }
+  ]
+}

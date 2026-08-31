@@ -1,0 +1,5045 @@
+{
+  "id": 1,
+  "label": "1-ci qrup",
+  "year": 2026,
+  "sourceUrl": "https://qebulol.az/1-ci-qrup-kecid-ballari-2026/",
+  "scrapedAt": "2026-08-31T18:49:30.674091Z",
+  "universities": [
+    {
+      "name": "Bakı Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 348.1,
+          "previousScore": 365.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 407.6,
+          "previousScore": 407.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 325.6,
+          "previousScore": 325.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 522.2,
+          "previousScore": 522.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 597.5,
+          "previousScore": 597.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Fizika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 310.7,
+          "previousScore": 310.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fizika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 337.5,
+          "previousScore": 337.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Geologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 213.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 427.9,
+          "previousScore": 427.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 537.3,
+          "previousScore": 537.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mexanika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 233.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexanika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 63.1,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 402.8,
+          "previousScore": 402.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 515.0,
+          "previousScore": 515.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 263.4,
+          "previousScore": 266.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Geologiya və geofizika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 206.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Geologiya və geofizika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 63.0,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Geologiya və geofizika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 266.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Geomatika və geodeziya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 220.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Geomatika və geodeziya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 60.8,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 542.3,
+          "previousScore": 542.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 406.3,
+          "previousScore": 406.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 517.8,
+          "previousScore": 517.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 355.1,
+          "previousScore": 355.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Meliorasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 245.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mədən mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 230.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mədən mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 70.7,
+          "previousScore": 71.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühəndislik fizikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 263.9,
+          "previousScore": 263.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 270.5,
+          "previousScore": 270.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 295.2,
+          "previousScore": 295.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 275.8,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 86.3,
+          "isSubBachelor": true,
+          "branch": "Qazax filialı"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Neft və Sənaye Universiteti",
+      "programs": [
+        {
+          "programName": "Geologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 216.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 476.8,
+          "previousScore": 476.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 567.1,
+          "previousScore": 567.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Cihaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 209.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Cihaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 302.8,
+          "previousScore": 302.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Data analitikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 562.8,
+          "previousScore": 562.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 250.1,
+          "previousScore": 250.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 289.1,
+          "previousScore": 291.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 303.1,
+          "previousScore": 303.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 453.0,
+          "previousScore": 453.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 237.1,
+          "previousScore": 237.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 388.1,
+          "previousScore": 388.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Geologiya və geofizika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 231.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Geologiya və geofizika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 62.3,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Geologiya və geofizika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 254.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 237.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 66.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 501.9,
+          "previousScore": 501.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 562.1,
+          "previousScore": 562.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 523.1,
+          "previousScore": 523.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 587.5,
+          "previousScore": 587.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 309.5,
+          "previousScore": 309.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 358.0,
+          "previousScore": 358.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 424.7,
+          "previousScore": 424.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 624.9,
+          "previousScore": 624.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 453.6,
+          "previousScore": 453.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 544.4,
+          "previousScore": 544.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 303.1,
+          "previousScore": 325.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 371.6,
+          "previousScore": 371.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 315.1,
+          "previousScore": 315.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 400.4,
+          "previousScore": 400.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 200.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 64.0,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Materiallar mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Materiallar mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 218.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 58.4,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 315.9,
+          "previousScore": 315.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 342.6,
+          "previousScore": 342.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 415.6,
+          "previousScore": 415.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mədən mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 204.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mədən mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 74.9,
+          "previousScore": 74.9,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühəndislik fizikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 220.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 435.8,
+          "previousScore": 435.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 587.8,
+          "previousScore": 587.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 358.2,
+          "previousScore": 358.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 450.2,
+          "previousScore": 450.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 224.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 83.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 263.1,
+          "previousScore": 263.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 291.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 474.4,
+          "previousScore": 474.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Texniki Universiteti",
+      "programs": [
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 526.7,
+          "previousScore": 526.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 408.0,
+          "previousScore": 408.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aerokosmik mühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 241.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Cihaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 223.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Cihaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 77.7,
+          "previousScore": 77.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 246.0,
+          "previousScore": 250.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 294.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 254.4,
+          "previousScore": 254.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 201.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 62.0,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 219.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 69.1,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 548.7,
+          "previousScore": 548.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 433.2,
+          "previousScore": 433.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 515.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 475.2,
+          "previousScore": 475.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 560.4,
+          "previousScore": 560.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 402.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 307.1,
+          "previousScore": 401.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 538.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 503.5,
+          "previousScore": 503.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 389.2,
+          "previousScore": 389.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 328.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 261.8,
+          "previousScore": 261.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 202.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 59.4,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 224.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 73.0,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Materiallar mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 211.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Materiallar mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 280.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 231.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 66.6,
+          "previousScore": 66.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 361.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 324.8,
+          "previousScore": 341.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Metallurgiya mühəndisliyi  Mədən mühəndisliyi Ə 200",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 264.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Metallurgiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 64.9,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Metallurgiya mühəndisliyi  Mədən mühəndisliyi Ə 200",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 59.4,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 231.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 86.0,
+          "previousScore": 86.0,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 347.0,
+          "previousScore": 347.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 262.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 229.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 86.2,
+          "previousScore": 86.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 293.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xüsusi rabitə vasitələri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 214.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Silah sistemləri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 211.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sistemlər mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 365.1,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Memarlıq və İnşaat Universiteti",
+      "programs": [
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 241.5,
+          "previousScore": 244.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 267.8,
+          "previousScore": 267.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 214.0,
+          "previousScore": 214.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 306.4,
+          "previousScore": 306.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Geomatika və geodeziya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 260.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Geomatika və geodeziya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 73.8,
+          "previousScore": 73.8,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 213.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 80.4,
+          "previousScore": 80.4,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 377.4,
+          "previousScore": 377.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 458.3,
+          "previousScore": 458.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 415.5,
+          "previousScore": 415.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 454.4,
+          "previousScore": 454.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 299.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 70.3,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 367.7,
+          "previousScore": 367.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 411.8,
+          "previousScore": 411.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 348.4,
+          "previousScore": 348.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kommunikasiya sistemləri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 223.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kommunikasiya sistemləri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 77.4,
+          "previousScore": 78.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kommunikasiya sistemləri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 257.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kommunikasiya sistemləri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 247.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kommunikasiya sistemləri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 87.3,
+          "previousScore": 87.3,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 259.1,
+          "previousScore": 259.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maşın mühəndisliyi  Materiallar mühəndisliyi Ə 200",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 247.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 70.0,
+          "previousScore": 70.0,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maşın mühəndisliyi  Materiallar mühəndisliyi Ə 200",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 56.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 241.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 74.1,
+          "previousScore": 75.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Meliorasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 230.2,
+          "previousScore": 238.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 402.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 91.1,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 213.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 85.6,
+          "previousScore": 85.6,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Nəqliyyat tikintisi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 230.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyat tikintisi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 64.3,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 335.9,
+          "previousScore": 335.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 294.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 66.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Şəhərsalma",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 252.3,
+          "previousScore": 252.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Şəhərsalma",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 243.7,
+          "previousScore": 243.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 275.8,
+          "previousScore": 275.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 258.8,
+          "previousScore": 258.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 328.9,
+          "previousScore": 328.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 484.7,
+          "previousScore": 484.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Pedaqoji Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 279.8,
+          "previousScore": 366.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 261.8,
+          "previousScore": 365.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 307.3,
+          "previousScore": 307.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformatika(rəqəmsalbacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 313.5,
+          "previousScore": 313.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 417.0,
+          "previousScore": 484.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 497.4,
+          "previousScore": 497.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 401.8,
+          "previousScore": 401.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Texnologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 230.5,
+          "previousScore": 231.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Şamaxı filialı"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 256.2,
+          "isSubBachelor": false,
+          "branch": "Şamaxı filialı"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 85.7,
+          "isSubBachelor": true,
+          "branch": "Şamaxı filialı"
+        },
+        {
+          "programName": "İnformatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 411.1,
+          "isSubBachelor": false,
+          "branch": "Şəki filialı"
+        },
+        {
+          "programName": "İnformatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "branch": "Şəki filialı"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 224.8,
+          "isSubBachelor": false,
+          "branch": "Şəki filialı"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "branch": "Şəki filialı"
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Ağcabədi filialı"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 255.1,
+          "isSubBachelor": false,
+          "branch": "Ağcabədi filialı"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 82.5,
+          "isSubBachelor": true,
+          "branch": "Ağcabədi filialı"
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi (Quba filiah)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi (Quba filiah)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 268.8,
+          "previousScore": 268.8,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət İqtisad Universiteti",
+      "programs": [
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 583.1,
+          "previousScore": 583.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 295.9,
+          "previousScore": 298.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 417.8,
+          "previousScore": 417.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 591.4,
+          "previousScore": 591.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 634.6,
+          "previousScore": 634.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 609.2,
+          "previousScore": 609.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 640.2,
+          "previousScore": 640.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kommunikasiya sistemləri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 379.7,
+          "previousScore": 379.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 569.4,
+          "previousScore": 569.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 622.5,
+          "previousScore": 622.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 359.6,
+          "previousScore": 359.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 388.6,
+          "previousScore": 388.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 238.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 77.9,
+          "previousScore": 77.9,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Materiallar mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 232.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Materiallar mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 63.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 337.6,
+          "previousScore": 337.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 249.6,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 83.7,
+          "previousScore": 86.9,
+          "isSubBachelor": true,
+          "branch": "Zaqatala filialı"
+        }
+      ]
+    },
+    {
+      "name": "Bakı Mühəndislik Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 260.4,
+          "previousScore": 260.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 394.6,
+          "previousScore": 394.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 515.8,
+          "previousScore": 516.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 347.3,
+          "previousScore": 347.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Data analitikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 372.9,
+          "previousScore": 556.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 235.0,
+          "previousScore": 240.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 242.9,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 224.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 87.1,
+          "previousScore": 87.1,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 281.0,
+          "previousScore": 281.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 244.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 82.2,
+          "previousScore": 82.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 415.2,
+          "previousScore": 415.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 521.7,
+          "previousScore": 521.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 488.1,
+          "previousScore": 488.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 564.7,
+          "previousScore": 564.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 299.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 70.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 337.1,
+          "previousScore": 401.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 500.9,
+          "previousScore": 500.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kommunikasiya sistemləri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 244.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kommunikasiya sistemləri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 74.8,
+          "previousScore": 79.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 406.6,
+          "previousScore": 406.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 515.0,
+          "previousScore": 515.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 327.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 87.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 221.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 80.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 267.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 200.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 63.1,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 249.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 70.7,
+          "previousScore": 70.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 252.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 312.1,
+          "previousScore": 343.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 297.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 295.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 233.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 84.8,
+          "previousScore": 84.8,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Nəqliyyat tikintisi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 254.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyat tikintisi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 67.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 351.9,
+          "previousScore": 351.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 370.0,
+          "previousScore": 370.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 208.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 83.0,
+          "previousScore": 83.0,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 293.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 308.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Şəhərsalma",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 250.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Şərabçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 224.2,
+          "previousScore": 224.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Şərabçılıq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 209.5,
+          "previousScore": 209.5,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası",
+      "programs": [
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 558.9,
+          "previousScore": 558.9,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "ADA Universiteti",
+      "programs": [
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 692.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 641.6,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 640.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 601.4,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 400.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 662.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 642.8,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kənd təsərrüfatı texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 300.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 655.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 636.7,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Qida texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 400.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 401.4,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Şəhərsalma",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 400.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Heyvandarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 300.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Rəssamlıq Akademiyası",
+      "programs": [
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 282.2,
+          "previousScore": 295.8,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Turizm və Menecment Universiteti",
+      "programs": [
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 86.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Milli Aviasiya Akademiyası",
+      "programs": [
+        {
+          "programName": "Aerokosmik mühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 355.5,
+          "previousScore": 355.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aerokosmik mühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 412.2,
+          "previousScore": 412.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Aviasiya təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 351.0,
+          "previousScore": 352.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aviasiya təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 389.1,
+          "previousScore": 389.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Cihaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 316.2,
+          "previousScore": 316.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Cihaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 321.3,
+          "previousScore": 321.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 277.8,
+          "previousScore": 282.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 326.5,
+          "previousScore": 326.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 310.0,
+          "previousScore": 310.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Hava nəqliyyatının hərəkətinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 358.4,
+          "previousScore": 358.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 421.9,
+          "previousScore": 421.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 489.9,
+          "previousScore": 489.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 414.0,
+          "previousScore": 414.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 351.3,
+          "previousScore": 351.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 412.2,
+          "previousScore": 412.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Materiallar mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 201.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 291.6,
+          "previousScore": 291.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 351.3,
+          "previousScore": 351.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 369.3,
+          "previousScore": 369.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mühəndislik fizikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 258.9,
+          "previousScore": 258.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 367.3,
+          "previousScore": 367.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 292.2,
+          "previousScore": 292.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Uçuş mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 415.5,
+          "previousScore": 415.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Dəniz Akademiyası",
+      "programs": [
+        {
+          "programName": "Dəniz naviqasiyası mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 385.0,
+          "previousScore": 385.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dəniz naviqasiyası mühəndisliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dəniz naviqasiyası mühəndisliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 67.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Dəniz naviqasiyası mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 468.8,
+          "previousScore": 468.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 300.0,
+          "previousScore": 300.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Gəmi energetik qurğularının istismarı mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 318.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Gəmi energetik qurğularının istismarı mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 77.6,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Gəmi energetik qurğularının istismarı mühəndisliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Gəmi energetik qurğularının istismarı mühəndisliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 71.2,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Gəmi energetik qurğularının istismarı mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 354.6,
+          "previousScore": 354.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Gəmiqayırma və gəmi təmiri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 257.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Gəmiqayırma və gəmi təmiri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 64.9,
+          "previousScore": 64.9,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Bakı Ali Neft Məktəbi",
+      "programs": [
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 672.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter elmləri (tədris ingilis",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 623.2,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Data analitikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 658.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Data analitikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 623.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 681.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 643.7,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 668.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 492.9,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 662.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 610.1,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 657.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 501.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 643.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 580.4,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Dövlət Gömrük Komitəsinin Akademiyası",
+      "programs": [
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 493.6,
+          "previousScore": 493.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 492.6,
+          "previousScore": 492.6,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Qarabağ Universiteti",
+      "programs": [
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 325.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 366.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Data analitikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 350.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 244.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 273.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 262.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 280.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 308.4,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Türkiyə-Azərbaycan Universiteti",
+      "programs": [
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 570.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 450.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 508.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Naxçıvan Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 371.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 504.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 240.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Texnologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 179.3,
+          "previousScore": 294.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fizika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 254.1,
+          "previousScore": 254.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 250.0,
+          "previousScore": 348.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 192.0,
+          "previousScore": 221.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 233.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 75.1,
+          "previousScore": 91.1,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 283.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 76.7,
+          "previousScore": 77.0,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 234.2,
+          "previousScore": 234.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 422.6,
+          "previousScore": 422.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 227.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 84.1,
+          "previousScore": 96.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 256.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 263.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Meliorasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 183.4,
+          "previousScore": 282.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 322.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi Proseslərin avtomatlaşdırılması Ə 200 mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 242.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 81.5,
+          "previousScore": 81.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi Proseslərin avtomatlaşdırılması Ə 200 mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 75.6,
+          "previousScore": 87.8,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 202.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 191.1,
+          "previousScore": 249.6,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Naxçıvan Müəllimlər İnstitutu",
+      "programs": [
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Texnologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 169.9,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Aqromühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 199.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Aqromühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 191.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 226.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 84.7,
+          "previousScore": 87.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 232.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 85.8,
+          "previousScore": 85.8,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 242.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 72.8,
+          "previousScore": 72.8,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "informasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 232.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "informasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 86.7,
+          "previousScore": 86.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 233.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 83.5,
+          "previousScore": 97.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 334.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 83.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 267.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 81.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 382.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 73.3,
+          "previousScore": 73.3,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Meliorasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 210.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Şərabçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 175.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aqronomluq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 197.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Aqronomluq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 188.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aqronomluq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 196.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aqronomluq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 217.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Balıqçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 160.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Meşəçilik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 167.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 190.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 200.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 215.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 204.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Yerquruluşu və daşınmaz əmlakm kadastrı",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 250.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Yerquruluşu və daşınmaz əmlakm kadastrı",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 249.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Zoomühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 168.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Zoomühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 170.2,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Gəncə Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 370.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 312.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 68.4,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 299.7,
+          "previousScore": 486.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 326.5,
+          "previousScore": 326.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Texnologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 177.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 272.6,
+          "previousScore": 272.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 213.1,
+          "previousScore": 320.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi  Maşın mühəndisliyi Ə 200",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 67.2,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kimya mühəndisliyi  Maşın mühəndisliyi Ə 200",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 59.3,
+          "previousScore": 59.3,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Texnologiya Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 185.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi Həyat fəaliyyətinin təhlükəsizliyi Ə 200 mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 254.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 79.9,
+          "previousScore": 87.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi Həyat fəaliyyətinin təhlükəsizliyi Ə 200 mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 62.1,
+          "previousScore": 65.8,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 206.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 82.5,
+          "previousScore": 86.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 426.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 80.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 221.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 78.4,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 365.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 75.5,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi Maşın mühəndisliyi Ə 200 Metallurgiya mühəndisliyi Ə 200 Nəqliyyat mühəndisliyi Ə 200 Proseslərin avtomatlaşdırılması Ə 200 mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 250.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 76.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi  Maşın mühəndisliyi Ə 200",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 67.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi Maşın mühəndisliyi Ə 200  Metallurgiya mühəndisliyi Ə 200",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 65.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi Maşın mühəndisliyi Ə 200 Metallurgiya mühəndisliyi Ə 200  Nəqliyyat mühəndisliyi Ə 200",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 83.5,
+          "previousScore": 83.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi Maşın mühəndisliyi Ə 200 Metallurgiya mühəndisliyi Ə 200 Nəqliyyat mühəndisliyi Ə 200 Proseslərin avtomatlaşdırılması Ə 200 mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 78.3,
+          "previousScore": 86.6,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 269.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 75.9,
+          "previousScore": 82.6,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Şərabçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 150.4,
+          "previousScore": 197.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Şərabçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 150.0,
+          "previousScore": 189.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Sumqayıt Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 390.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 73.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 312.5,
+          "previousScore": 484.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 508.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 229.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 84.1,
+          "previousScore": 84.1,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Fizika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 250.0,
+          "previousScore": 272.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 250.0,
+          "previousScore": 346.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 241.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 206.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 78.8,
+          "previousScore": 87.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 255.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 81.2,
+          "previousScore": 81.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 298.1,
+          "previousScore": 298.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 249.5,
+          "previousScore": 397.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 481.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 72.6,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 283.3,
+          "previousScore": 283.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 260.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 81.1,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 221.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 69.7,
+          "previousScore": 69.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 400.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 83.4,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 226.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 93.6,
+          "previousScore": 93.7,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Mingəçevir Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 368.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 271.5,
+          "previousScore": 486.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 241.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 81.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Texnologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 201.3,
+          "previousScore": 243.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 250.0,
+          "previousScore": 255.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 76.1,
+          "previousScore": 76.6,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 211.7,
+          "previousScore": 283.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 229.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 78.5,
+          "previousScore": 88.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 262.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 79.7,
+          "previousScore": 79.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 297.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 67.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 213.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 78.3,
+          "previousScore": 86.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 385.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 80.2,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 270.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 78.9,
+          "previousScore": 98.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 307.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 82.8,
+          "previousScore": 82.8,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 296.4,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Lənkəran Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 398.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 493.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 255.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": 81.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Texnologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 190.5,
+          "previousScore": 275.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aqromühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 200.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 224.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 78.1,
+          "previousScore": 87.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 397.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 79.2,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 236.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 80.8,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 338.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 74.4,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Şərabçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 174.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Şərabçılıq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 177.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aqronomluq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 184.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aqronomluq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 190.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Meşəçilik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 159.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Meşəçilik",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 166.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 199.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 194.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Zoomühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 174.7,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Kooperasiya Universiteti",
+      "programs": [
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 218.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 205.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 93.0,
+          "previousScore": 96.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 84.1,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Şərabçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 207.5,
+          "previousScore": 207.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 236.1,
+          "previousScore": 236.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 247.2,
+          "previousScore": 250.4,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "“Azərbaycan ” Universiteti",
+      "programs": [
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 319.4,
+          "previousScore": 319.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 93.6,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 290.6,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 309.4,
+          "previousScore": 309.4,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Qərbi Kaspi Universiteti",
+      "programs": [
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 250.0,
+          "previousScore": 252.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 73.8,
+          "previousScore": 74.6,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter elmləri  Cihaz mühəndisliyi Ə 200",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 293.3,
+          "previousScore": 293.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri  Cihaz mühəndisliyi Ə 200",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 69.9,
+          "previousScore": 69.9,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 223.8,
+          "previousScore": 279.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 248.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 96.9,
+          "previousScore": 96.9,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 297.5,
+          "previousScore": 297.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 386.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 81.4,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 87.3,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 279.3,
+          "previousScore": 279.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 287.1,
+          "previousScore": 287.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 73.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 345.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Alman"
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Meşəçilik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 222.3,
+          "previousScore": 223.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Meşəçilik",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 199.0,
+          "previousScore": 199.0,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Xəzər Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 373.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 276.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 73.5,
+          "previousScore": 88.4,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 427.2,
+          "previousScore": 427.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 254.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 71.7,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 511.7,
+          "previousScore": 511.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 315.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 417.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 90.0,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 316.4,
+          "previousScore": 316.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 295.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 63.5,
+          "previousScore": 66.3,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 307.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 326.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi Radiotexnika və telekommunikasiya Ə 200 mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 399.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 51.0,
+          "previousScore": null,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi Radiotexnika və telekommunikasiya Ə 200 mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 71.0,
+          "previousScore": 83.8,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Bakı Avrasiya Universiteti",
+      "programs": [
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 268.6,
+          "previousScore": 268.6,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Qızlar Universiteti",
+      "programs": [
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 225.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 67.2,
+          "previousScore": 83.0,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "“Odlar Yurdu ” Universiteti",
+      "programs": [
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 289.0,
+          "previousScore": 289.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 281.3,
+          "previousScore": 281.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 403.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 98.5,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 253.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 99.0,
+          "previousScore": 99.0,
+          "isSubBachelor": true,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 268.6,
+          "previousScore": 268.6,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Biznes Universiteti",
+      "programs": [
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 246.5,
+          "previousScore": 246.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 90.2,
+          "previousScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    }
+  ]
+}

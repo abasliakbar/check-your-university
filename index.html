@@ -1,1 +1,86 @@
-<!doctype html><html lang="az"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Keçid Balı</title><link rel="stylesheet" href="style.css"></head><body><header class="container"><div class="topbar"><a class="brand"><span class="brand-mark">K</span>Keçid Balı</a><span class="topnote">Abituriyentlər üçün sadə bələdçi</span></div></header><section class="container hero"><div class="hero-grid"><div><p class="eyebrow">700 ballıq sistem</p><h1>Balını hesabla, seçimlərini gör.</h1><p class="hero-intro">Buraxılış və blok imtahanı nəticələrini daxil et.</p><div class="score-form"><div class="field"><label>Buraxılış balı (maks. 300)<input id="graduation" type="number"></label></div><div class="field"><label>Blok imtahanı (maks. 400)<input id="block" type="number"></label></div><button class="calculate" id="calculate">Hesabla</button></div><p class="validation" id="validation-message"></p></div><div class="result-panel"><svg class="gauge" viewBox="0 0 200 115"><path class="gauge-base" d="M20 100 A80 80 0 0 1 180 100"/><path class="gauge-fill" id="gauge-fill" pathLength="283" d="M20 100 A80 80 0 0 1 180 100"/></svg><p class="score-number"><span id="score-total">0</span> <span>/ 700</span></p><p class="score-caption" id="score-caption">Ballarını daxil edərək başla</p></div></div></section><main class="container"><div class="section-heading"><h2>Universitet keçid balları</h2></div><div class="directory"><div class="filters"><label>Universitet<select id="university-filter"><option value="">Bütün universitetlər</option></select></label><label>İxtisas axtarışı<input id="search" type="search"></label><label class="filter-check"><input id="eligible-only" type="checkbox" disabled><span>Yalnız uyğunlar</span></label></div><div class="table-wrap"><table><thead><tr><th>İxtisas</th><th>Tədris dili / forması</th><th>Min. bal</th><th>Keçid balı</th><th>Mötərizədə</th><th>Subbakalavr</th></tr></thead><tbody id="table-body"></tbody></table></div><div id="empty-state" class="empty" hidden>Nəticə tapılmadı</div></div></main><footer><div class="container">Qeyd: keçid balları nümayiş məqsədlidir.</div></footer><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="az">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Keçid Balı</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="container">
+        <div class="topbar"><a class="brand"><span class="brand-mark">K</span>Keçid Balı</a><span
+                class="topnote">Abituriyentlər üçün sadə bələdçi</span></div>
+    </header>
+    <section class="container hero">
+        <div class="hero-grid">
+            <div>
+                <p class="eyebrow">700 ballıq sistem</p>
+                <h1>Balını hesabla, seçimlərini gör.</h1>
+                <p class="hero-intro">Buraxılış və blok imtahanı nəticələrini daxil et.</p>
+                <div class="score-form">
+                    <div class="field"><label>Buraxılış balı (maks. 300)<input id="graduation" type="number"></label>
+                    </div>
+                    <div class="field"><label>Blok imtahanı (maks. 400)<input id="block" type="number"></label></div>
+                    <button class="calculate" id="calculate">Hesabla</button>
+                </div>
+                <p class="validation" id="validation-message"></p>
+            </div>
+            <div class="result-panel"><svg class="gauge" viewBox="0 0 200 115">
+                    <path class="gauge-base" d="M20 100 A80 80 0 0 1 180 100" />
+                    <path class="gauge-fill" id="gauge-fill" pathLength="283" d="M20 100 A80 80 0 0 1 180 100" />
+                </svg>
+                <p class="score-number"><span id="score-total">0</span> <span>/ 700</span></p>
+                <p class="score-caption" id="score-caption">Ballarını daxil edərək başla</p>
+            </div>
+        </div>
+    </section>
+    <main class="container">
+        <div class="section-heading">
+            <h2>Universitet keçid balları</h2>
+        </div>
+        <div class="group-tabs" id="group-tabs" role="tablist">
+            <button class="group-tab active" data-group="1" role="tab" aria-selected="true">1-ci qrup</button>
+            <button class="group-tab" data-group="2" role="tab" aria-selected="false">2-ci qrup</button>
+            <button class="group-tab" data-group="3" role="tab" aria-selected="false">3-ci qrup</button>
+            <button class="group-tab" data-group="4" role="tab" aria-selected="false">4-cü qrup</button>
+            <button class="group-tab" data-group="5" role="tab" aria-selected="false">5-ci qrup</button>
+        </div>
+        <div class="directory">
+            <div class="filters"><label>Universitet<select id="university-filter">
+                        <option value="">Bütün universitetlər</option>
+                    </select></label><label>İxtisas axtarışı<input id="search" type="search"></label><label
+                    class="filter-check"><input id="eligible-only" type="checkbox" disabled><span>Yalnız
+                        uyğunlar</span></label></div>
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>İxtisas</th>
+                            <th>Forma</th>
+                            <th>Dil</th>
+                            <th>Keçid balı (2026)</th>
+                            <th>Keçid balı (2025)</th>
+                            <th>Qeyd</th>
+                        </tr>
+                    </thead>
+                    <tbody id="table-body"></tbody>
+                </table>
+            </div>
+            <div id="empty-state" class="empty" hidden>Nəticə tapılmadı</div>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <p>Qeyd: keçid balları nümayiş məqsədlidir.</p>
+            <p class="attribution">Mənbə: <a href="https://qebulol.az" target="_blank" rel="noopener noreferrer">qebulol.az</a></p>
+        </div>
+    </footer>
+    <script src="app.js"></script>
+</body>
+
+</html>

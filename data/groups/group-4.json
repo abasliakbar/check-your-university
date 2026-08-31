@@ -1,0 +1,1082 @@
+{
+  "id": 4,
+  "label": "4-ci qrup",
+  "year": 2026,
+  "sourceUrl": "https://qebulol.az/4-cu-qrup-kecid-ballari-2026/",
+  "scrapedAt": "2026-08-31T18:49:33.809805Z",
+  "universities": [
+    {
+      "name": "Bakı Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 433.9,
+          "previousScore": 433.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 454.4,
+          "previousScore": 454.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 540.7,
+          "previousScore": 540.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 356.9,
+          "previousScore": 533.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 581.5,
+          "previousScore": 581.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 493.5,
+          "previousScore": 493.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 542.2,
+          "previousScore": 542.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biotexnologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 562.3,
+          "previousScore": 562.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biotexnologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 586.8,
+          "previousScore": 586.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 349.9,
+          "previousScore": 349.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 396.2,
+          "previousScore": 396.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 482.6,
+          "previousScore": 482.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 548.1,
+          "previousScore": 548.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Su bioehtiyatları və akvakultura",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 266.2,
+          "previousScore": 266.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Bitki mühafizəsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 270.4,
+          "previousScore": 270.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya və biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Tibb Universiteti",
+      "programs": [
+        {
+          "programName": "Əczaçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 580.6,
+          "previousScore": 580.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fizioterapiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 603.4,
+          "previousScore": 603.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İctimai səhiyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 593.0,
+          "previousScore": 593.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb bacısı (qardaşı) işi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 547.8,
+          "previousScore": 547.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Stomatologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 615.5,
+          "previousScore": 615.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 624.3,
+          "previousScore": 624.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 683.7,
+          "previousScore": 683.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Pedaqoji Universiteti",
+      "programs": [
+        {
+          "programName": "Biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 291.4,
+          "previousScore": 381.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 318.1,
+          "previousScore": 394.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya və biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 400.1,
+          "previousScore": 400.1,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət iqtisad Universiteti",
+      "programs": [
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 314.7,
+          "previousScore": 314.7,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Slavyan Universiteti",
+      "programs": [
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 492.8,
+          "previousScore": 499.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": 268.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Mühəndislik Universiteti",
+      "programs": [
+        {
+          "programName": "Biotexnologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 515.2,
+          "previousScore": 524.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 415.2,
+          "previousScore": 468.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 477.2,
+          "previousScore": 477.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan idman Akademiyası",
+      "programs": [
+        {
+          "programName": "Fizioterapiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 453.9,
+          "previousScore": 453.9,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Qarabağ Universiteti",
+      "programs": [
+        {
+          "programName": "Biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 286.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 325.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 485.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb bacısı (qardaşı) işi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 490.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 614.6,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Naxçıvan Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 289.1,
+          "previousScore": 385.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 395.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 416.5,
+          "previousScore": 503.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 364.8,
+          "previousScore": 364.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 485.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Baytarlıq təbabəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 150.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Baytarlıq təbabəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 74.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Əczaçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 566.7,
+          "previousScore": 566.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İctimai səhiyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 582.0,
+          "previousScore": 582.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb bacısı (qardaşı) işi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 482.4,
+          "previousScore": 482.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Stomatologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 600.4,
+          "previousScore": 600.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 604.1,
+          "previousScore": 604.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 607.3,
+          "previousScore": 607.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Biotexnologiya  Ekologiya Ə 150",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biotexnologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 92.3,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biotexnologiya  Ekologiya Ə 150",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 90.3,
+          "previousScore": 96.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Su bioehtiyatları və akvakultura",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 171.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Bağçılıq və tərəvəzçilik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 150.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Bağçılıq və tərəvəzçilik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 51.0,
+          "isSubBachelor": true,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Bağçılıq və tərəvəzçilik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 150.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Bağçılıq və tərəvəzçilik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 78.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Bağçılıq və tərəvəzçilik",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 150.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Bağçılıq və tərəvəzçilik",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 93.3,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Bağçılıq və tərəvəzçilik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 168.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Baytarlıq təbabəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 150.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Baytarlıq təbabəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 80.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Baytarlıq təbabəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 275.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Bitki mühafizəsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 150.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Bitki mühafizəsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 83.2,
+          "isSubBachelor": true,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Bitki mühafizəsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 150.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Bitki mühafizəsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 89.1,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Əczaçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 238.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Əczaçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 92.1,
+          "previousScore": 92.1,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Gəncə Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 473.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 528.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya və biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 366.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 348.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 92.7,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 345.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 90.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 211.5,
+          "previousScore": 265.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 478.8,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Texnologiya Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 150.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 87.2,
+          "previousScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Sumqayıt Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 438.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya və biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 263.1,
+          "previousScore": 366.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 334.8,
+          "previousScore": 503.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 335.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 93.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 236.7,
+          "previousScore": 284.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Mingəçevir Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Kimya və biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 373.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 150.0,
+          "previousScore": 322.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 88.0,
+          "previousScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Lənkəran Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Kimya və biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": 367.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 150.0,
+          "previousScore": 312.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 86.9,
+          "previousScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Bağçılıq və tərəvəzçilik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 150.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Bağçılıq və tərəvəzçilik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 72.6,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Baytarlıq təbabəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 150.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Baytarlıq təbabəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": null,
+          "previousScore": 79.3,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Kooperasiya Universiteti",
+      "programs": [
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 185.4,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Qərbi Kaspi Universiteti",
+      "programs": [
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 378.7,
+          "previousScore": 499.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 341.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 404.0,
+          "previousScore": 404.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 366.2,
+          "previousScore": 366.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 290.0,
+          "previousScore": 290.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Su bioehtiyatları və akvakultura",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 222.6,
+          "previousScore": 222.6,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Xəzər Universiteti",
+      "programs": [
+        {
+          "programName": "Biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 382.0,
+          "previousScore": 382.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya və biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 387.5,
+          "previousScore": 387.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 528.5,
+          "previousScore": 528.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biotexnologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 557.8,
+          "previousScore": 557.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Baytarlıq təbabəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 242.0,
+          "previousScore": 242.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Baytarlıq təbabəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 297.6,
+          "previousScore": 297.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Bakı Qızlar Universiteti",
+      "programs": [
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 200.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "“Odlar Yurdu ” Universiteti",
+      "programs": [
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 311.7,
+          "previousScore": 608.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 315.7,
+          "previousScore": 339.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 263.9,
+          "previousScore": 269.6,
+          "isSubBachelor": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "id": 5,
+  "label": "5-ci qrup",
+  "year": 2026,
+  "sourceUrl": "https://qebulol.az/5-ci-qrup-kecid-ballari-2026/",
+  "scrapedAt": "2026-08-31T18:49:34.553904Z",
+  "universities": [
+    {
+      "name": "Bakı Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fiziki tərbiyə və çağmşaqədərki hazırlıq müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 129.7,
+          "previousScore": null,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Pedaqoji Universiteti",
+      "programs": [
+        {
+          "programName": "Fiziki tərbiyə və çağmşaqədərki hazırlıq müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 140.5,
+          "previousScore": 177.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Musiqi müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 101.4,
+          "previousScore": 108.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təsviri incəsənət müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 156.3,
+          "previousScore": 166.5,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət İqtisad Universiteti",
+      "programs": [
+        {
+          "programName": "Dizayn (geyim dizaynı, mühit dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 215.3,
+          "previousScore": 239.9,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Mühəndislik Universiteti",
+      "programs": [
+        {
+          "programName": "Dekorativ-tətbiqi sənət (sahələr üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 201.8,
+          "previousScore": 228.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dizayn (interyer dizaynı, qrafik dizayn, sənaye dizaynı, geyim dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 192.9,
+          "previousScore": 241.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dizayn (interyer dizaynı, qrafik dizayn, sənaye dizaynı, geyim dizaynı, tədris ingilis dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 225.6,
+          "previousScore": 241.1,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "ADA Universiteti",
+      "programs": [
+        {
+          "programName": "Dizayn (interyer dizaynı, tədris ingilis dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 237.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dizayn (kommunikasiya dizaynı, tədris ingilis dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 187.1,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Musiqi Akademiyası",
+      "programs": [
+        {
+          "programName": "Musiqi müəllimliyi (fortepiano, violin, viola, violonçel, kontrabas, arfa, fleyta, qoboy, klarnet, saksofon, faqot, valtoma, truba, trombon, tuba, zərb alətləri) Bəstəkarlıq Ə 6/60 (8/70.3) Dirijorluq (xor dirijoru) Ə 7/61.4 (7/61.4) İnstrumental ifaçılıq (fortepiano, Ə 6/60(9/62) orqan, klavesin, violin, viola, violonçel, kontrabas, arfa, fleyta, qoboy, klarnet, saksofon, faqot, valtoma, truba, trombon, tuba, zərb alətləri) Subbakalavrlar üzrə Ə 6/51 (-) Musiqişünaslıq Ə 6/60 (8/101.6) Populyar musiqi və caz ifaçılığı Ə 9/149.3 (vokal, fortepino, truba, saksofon) (9/149.3) Vokal sənəti (akademik vokal) Ə 7/150(7/150) Azərbaycan Milli Konservatoriyası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 123.1,
+          "previousScore": 123.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Musiqi müəllimliyi (fortepiano, tar, kamança, qanun, balaban, saz, klarnet, qarmon) Bəstəkarlıq Ə 6/60 (8/186.3) Dirijorluq (xalq çalğı alətləri Ə 6/60 (-) orkestrinin dirijorluğu) Dirijorluq (xor dirijorluğu) Ə 6/60 (-) Subbakalavrlar üzrə Ə 6/51(7/82.8) İnstrumental ifaçılıq (tar, kamança, Ə 8/60 (9/64.2) qanun, balaban, saz, qarmon, nağara, klarnet) Subbakalavrlar üzrə Ə 8/70.6 (9/84.3) Musiqişünaslıq Ə 6/60 (8/133.9) Populyar musiqi və caz ifaçılığı Ə 7/88.7 (vokal, alətlər üzrə: fortepiano, (8/150.9) violin, akkordeon, klarnet, saksofon, fleyta, qoboy, truba, gitara, tar, kamança, balaban, qanun, zərb alətləri) Vokal sənəti (xanəndəlik) Ə 8/60 (8/68.7) Subbakalavrlar üzrə Ə 8/69.4 (8/69.4) Vokal sənəti (milli vokal) Ə 7/114.8 (7/169.5)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 120.3,
+          "previousScore": 120.3,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Mədəniyyət və incəsənət Universiteti",
+      "programs": [
+        {
+          "programName": "Musiqi müəllimliyi (fortepiano,violin, viola, gitara, klarnet, saksafon,fleyta, zərb alətləri, tar, kamança, saz, qanun, nağara, balaban, qarmon, vokal)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 117.0,
+          "previousScore": 117.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təsviri incəsənət müəllimliyi Aktyor sənəti (dram teatrı və kino Ə 7/74 (7/74) aktyoru, musiqili teatr aktyoru) Subbakalavrlar üzrə Ə 8/76.4 (8/76.4) Aktyor sənəti (dram teatrı və kino Q 7/63.5 (7/63.5) aktyoru, musiqili teatr aktyoru) Aktyor sənəti (dram teatrı və kino Ə 8/112(8/112) aktyoru, musiqili teatr aktyoru) Dekorativ-tətbiqi sənət (bədii xalça, Ə 7/122.6 bədii toxuculuq) (7/158.2) Dizayn (interyer dizaynı, qrafik Ə 6/138.7 dizayn və geyim dizaynı) (8/107.8) Subbakalavrlar üzrə Ə 7/83.5 (-) İnstrumental ifaçılıq (fortepiano, Ə 8/154.3 violin, viola, gitara, klarnet, saksafon, (9/71.6) zərb alətləri) İnstrumental ifaçılıq (tar, kamança, Ə 8/81(9/60.1) qanun, nağara, balaban, saz) Subbakalavrlar üzrə Ə 9/71.3 (9/81.3) Qrafika O 7/83.7 (7/83.7) Musiqişünaslıq Ə 6/60 (-) Operator sənəti Ə 6/60(6/68) Subbakalavrlar üzrə Ə 6/51 (-) Operator sənəti Q 6/60 (7/140.7) Populyar musiqi və caz ifaçılığı Ə 6/91(9/142.1) (vokal) Subbakalavrlar üzrə Ə 7/81.2 (-) Rejissorluq (televiziya rejissoru, kino Ə 6/120 rejissoru, teatr rejissoru, animasiya (6/145.3) rejissoru) Rəngkarlıq Ə 6/103 (6/103) Vokal sənəti (xanəndə) Ə 7/60(7/148) Subbakalavrlar üzrə Ə 7/71.6 (8/62.7)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 178.7,
+          "previousScore": 178.7,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Rəssamlıq Akademiyası",
+      "programs": [
+        {
+          "programName": "Təsviri incəsənət müəllimliyi Dekorativ-tətbiqi sənət (bədii xalça, Ə 7/116.4 bədii toxuculuq, bədii keramika və (7/155.4) şüşə, bədii metal) Subbakalavrlar üzrə Ə 8/69 (8/69) Dizayn (interyer dizaynı, sənaye Ə 6/139.2 dizaynı, qrafik dizayn, geyim (8/73.9) dizaynı, kukla rəssamı) Heykəltəraşlıq (monumental Ə 7/60 (7/82.9) heykəltəraşlıq, dəzgah heykəltəraşlığı) Subbakalavrlar üzrə Ə 7/81.2 (8/81.9) Qrafika (dəzgah qrafikası, kitab Ə 7/113.5 tərtibatı və illüstrasiyası, plakat, (7/113.5) animasiya üzrə quruluşçu rəssam) Subbakalavrlar üzrə Ə 8/78.9 (8/78.9) Rəngkarlıq (monumental rəngkarlıq, Ə 7/60 (7/72.2) dəzgah rəngkarlığı, teatr dekorasiyası rəngkarlığı, kino rəssamı) Subbakalavrlar üzrə Ə 7/74 (7/74)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 185.1,
+          "previousScore": 185.1,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan İdman Akademiyası",
+      "programs": [
+        {
+          "programName": "Fiziki tərbiyə və çağınşaqədərki hazırlıq müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 145.5,
+          "previousScore": 171.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Adaptiv bədən tərbiyəsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 139.5,
+          "previousScore": 162.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kütləvi-sağlamlaşdıncı idman",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 135.7,
+          "previousScore": 155.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kütləvi-sağlamlaşdıncı idman",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "currentScore": 132.2,
+          "previousScore": 159.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ümumi fiziki hazırlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 130.9,
+          "previousScore": 155.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ümumi fiziki hazırlıq Məşqçilik (atletika, tədris ingilis Ə 8/120.7 (-) dilində) Məşqçilik (kanoe və avarçəkmə, Ə 10/114.8 tədris ingilis dilində) (10/148.8) Məşqçilik (basketbol, tədris ingilis Ə 9/97.3 (-) dilində) Məşqçilik (cüdo, tədris ingilis Ə 9/153.6 dilində) (10/143.8) Məşqçilik (gimnastika, tədris ingilis Ə 6/70 dilində) (10/145.3) Məşqçilik (yunan-Roma güləşi, tədris Ə 6/70 (-) ingilis dilində) Məşqçilik (həndbol, tədris ingilis Ə 9/103.4 (-) dilində) Məşqçilik (taekvando, tədris ingilis Ə 9/128.6 (-) dilində) Məşqçilik (voleybol, tədris ingilis Ə 8/127 (-) dilində) Məşqçilik (ağırlıqqaldırma, tədris Ə 9/110.9 (-) ingilis dilində) l 37335 Məşqçilik (atıcılıq, tədris ingilis Ə 6/70 (-) dilində) Məşqçilik (badminton, tədris ingilis Ə 8/141.9 (-) dilində) Məşqçilik (boks, tədris ingilis Ə 10/152.7 dilində) (10/152.7) Məşqçilik (futbol, tədris ingilis Ə 10/139.9 dilində) (10/139.9) Məşqçilik (sərbəst güləş, tədris Ə 10/115.3 (-) ingilis dilində) Məşqçilik (kamandan oxatma, tədris Ə 6/70 (-) ingilis dilində) Məşqçilik (qılmcoynatma, tədris Ə 6/70 (-) ingilis dilində) Məşqçilik (stolüstü tennis, tədris Ə 6/70 ingilis dilində) (10/167.2) Məşqçilik (tennis, tədris ingilis Ə 7/113.2 (-) dilində) Məşqçilik (üzgüçülük, tədris ingilis Ə 6/114.5 (-) dilində) Məşqçilik (velosiped, tədris ingilis Ə 10/125.2 dilində) (10/138.6) Məşqçilik (ağırlıqqaldırma) Ə 10/74.5 (-) Məşqçilik (ağırlıqqaldırma) Q 10/72.7 (10/158.5) Məşqçilik (alpinizm) Ə 10/106 (-) Məşqçilik (atıcılıq) Ə 8/119.3 (10/150.5) Məşqçilik (atıcılıq) Q 9/198 (-) Subbakalavrlar üzrə Q 10/69 (-) Məşqçilik (atletika) Ə 8/122.1 (10/147) Məşqçilik (atletika) Q 8/112.8 (10/147.5) Məşqçilik (kanoe və avarçəkmə) Ə 10/95.2 (10/139.9) Məşqçilik (badminton) Ə 9/97 (-) Məşqçilik (basketbol) Ə 9/96.6 (10/141.7) Məşqçilik (basketbol) Q 8/101.6 (-) Məşqçilik (boks) Ə 10/109.4 (10/143.4) Məşqçilik (boks) Q 10/106.4 (-) Məşqçilik (cüdo) Ə 10/102.4 (10/139) Məşqçilik (cüdo) Q 10/99.1 (-) Məşqçilik (futbol) Ə 10/115.9 (10/142.6) Məşqçilik (gimnastika) Ə 6/70 (10/146.8) Məşqçilik (gimnastika) Q 6/70 (10/198.2) Məşqçilik (sərbəst güləş) Ə 10/118.8 (10/143.5) Məşqçilik (sərbəst güləş) Q 10/107.4 (-) Məşqçilik (yunan-Roma güləşi) Ə 10/89.1 (10/160) Məşqçilik (yunan-Roma güləşi) Q 8/75.8 (-) Məşqçilik (həndbol) Ə 9/105.7 (-) Məşqçilik (həndbol) Q 9/93 (-) Məşqçilik (kamandan oxatma) Ə 6/70 (10/165.1) Məşqçilik (karate) Ə 10/83.3 (-) Məşqçilik (karate) Q 9/156.5 (-) Subbakalavrlar üzrə Q 10/67.1 (-) Məşqçilik (qılmcoynatma) Ə 8/97.1 (-) Məşqçilik (qış idman növləri) Ə 7/83.5 (-) Məşqçilik (şahmat) Ə 9/101.2 (10/165.1) Məşqçilik (sambo) Ə 10/100.8 (-) Məşqçilik (stolüstü tennis) Ə 7/112.4 (10/147.8) Məşqçilik (stolüstü tennis) Q 7/103.9 (-) Subbakalavrlar üzrə Q 10/62.5 (-) Məşqçilik (taekvando) Ə 9/138.1 (10/143.4) Məşqçilik (taekvando) Q 9/147.8 (10/156.6) Məşqçilik (tennis) Ə 7/122.1 (-) Məşqçilik (triatlon) Ə 9/98.4 (-) Məşqçilik (üzgüçülük) Ə 7/82.4 (-) Məşqçilik (üzgüçülük) Q 9/82.5 (-) Məşqçilik (velosiped) Ə 10/74.6 (10/149.4) Məşqçilik (velosiped) Q 10/72.9 (-) Məşqçilik (voleybol) Ə 9/128.2 (10/194.2) Məşqçilik (voleybol) Q 9/123.9 (10/144.2)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "currentScore": 123.8,
+          "previousScore": 157.0,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Qarabağ Universiteti",
+      "programs": [
+        {
+          "programName": "Musiqi müəllimliyi (fortepiano)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": null,
+          "previousScore": 102.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Musiqi müəllimliyi (fleyta, qoboy, klarnet, faqot, valtoma, truba, trombon, zərb alətləri, violin, viola, violonçel, kontrabas, tar, kamança, saz, nağara, qanun, balaban, qarmon) Bəstəkarlıq Ə – (6/60) Dekorativ-tətbiqi sənət (bədii Ə – (7/113) toxuculuq, keramika) Dizayn (interyer dizaynı, qrafik Ə – (6/122.6) dizayn, geyim dizaynı) İnstrumental ifaçılıq (fortepiano) Ə – (8/108.2) İnstrumental ifaçılıq (fleyta, qoboy, Ə – (7/68.9) klarnet, faqot, valtoma, truba, trombon, zərb alətləri, violin, viola, violonçel, kontrabas, orqan, gitara) İnstrumental ifaçılıq (tar, kamança, Ə -(8/83.3) saz, nağara, qanun, balaban) Musiqişünaslıq Ə -(6/60) Vokal sənəti (xanəndə) Ə -(6/71) Vokal sənəti (akademik vokal, milli Ə -(7/65.2) vokal)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": null,
+          "previousScore": 60.0,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Naxçıvan Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Dizayn (interyer dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 181.6,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fiziki tərbiyə və çağınşaqədərki hazırlıq müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 130.0,
+          "previousScore": 172.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Musiqi müəllimliyi (fortepiano, tar, kamança, qarmon, nağara, saz, zurna)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 86.4,
+          "previousScore": 114.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təsviri incəsənət müəllimliyi Aktyor sənəti (teatr və kino Ə 6/60 (6/78.5) aktyorluğu, musiqili teatr aktyorluğu) Subbakalavrlar üzrə Ə 6/51(8/87.3) Bəstəkarlıq Ə 6/60 (-) Dirijorluq (xor dirijorluğu, nəfəs Ə 6/60 (-) alətləri orkestrinin dirijorluğu) İnstrumental ifaçılıq (tar, kamança, Ə 8/135.2 qarmon, balaban, qanun, nağara, saz) (9/63.5) İnstrumental ifaçılıq (tar, kamança, Q 9/94.5 (9/94.5) qarmon, balaban, qanun, nağara, saz) İnstrumental ifaçılıq (fortepiano) Ə 8/78.9 (9/112.4) İnstrumental ifaçılıq (violin, viola, Ə 6/60 (-) violonçel, kontrabas) İnstrumental ifaçılıq (fleyta, klarnet, Ə 6/60 (-) saksofon, truba, trombon, qoboy, valtoma, faqot, tuba, zərb alətləri) Subbakalavrlar üzrə Ə 6/51 (-) Musiqişünaslıq Ə 6/60 (-) Musiqişünaslıq Q 7/69.8 (7/83.9) Rəngkarlıq Ə 6/93.1 (6/93.1) Subbakalavrlar üzrə Ə 7/89.2 (7/89.2) Vokal sənəti (xanəndəlik, milli Ə 6/60(8/84.8) vokal) Subbakalavrlar üzrə Ə 6/51(8/82.3) Məşqçilik (atletika) Ə 8/103.9 (-) Məşqçilik (atletika) Q 7/115.9 (-) Məşqçilik (sərbəst güləş) Ə 10/82 (10/149.8) Məşqçilik (sərbəst güləş) Q 8/122.3 (-) Subbakalavrlar üzrə Q 10/64.8 (-) Məşqçilik (voleybol) Ə 9/91.9 (10/144.7)  Məşqçilik (voleybol) Q 8/79.3 (-)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 125.1,
+          "previousScore": 172.5,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Naxçıvan Müəllimlər İnstitutu",
+      "programs": [
+        {
+          "programName": "Təsviri incəsənət müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 115.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Dizayn (interyer dizayn, qrafik dizayn)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 188.2,
+          "previousScore": 241.9,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Gəncə Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fiziki tərbiyə və çağınşaqədərki hazırlıq müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 135.1,
+          "previousScore": 172.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Musiqi müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 107.8,
+          "previousScore": 110.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təsviri incəsənət müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 124.9,
+          "previousScore": 167.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ümumi fiziki hazırlıq Məşqçilik (futbol) Ə 10/110.6 (-) Məşqçilik (atletika) Ə 8/111.8 (-) Məşqçilik (atletika) Q 8/89.1 (-) Məşqçilik (boks) Ə 10/83.6 (-) Məşqçilik (sərbəst güləş) Ə 10/106.1 (-) Məşqçilik (sərbəst güləş) Q 10/74.3 (-)   Məşqçilik (yunan-Roma güləşi) Ə 8/126.9 (-)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 128.7,
+          "previousScore": 155.5,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Texnologiya Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Dizayn (geyim dizaynı, sənaye dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 175.0,
+          "previousScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Sumqayıt Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fiziki tərbiyə və çağınşaqədərki hazırlıq müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 140.7,
+          "previousScore": 173.8,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Lənkəran Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Musiqi müəllimliyi (fortepiano, tar, kamança, qarmon, saz, qanun, violin, klarnet, balaban, nağara, gitara, vokal, xor dirijorluğu, musiqi nəzəriyyəsi)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 83.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təsviri incəsənət müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 125.9,
+          "previousScore": 172.5,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Qərbi Kaspi Universiteti",
+      "programs": [
+        {
+          "programName": "Dizayn (interyer dizaynı, qrafik dizayn və sənaye dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 190.3,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dizayn (interyer dizaynı, qrafik dizayn və sənaye dizaynı, tədris ingilis dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 198.8,
+          "previousScore": 261.3,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Xəzər Universiteti",
+      "programs": [
+        {
+          "programName": "Dizayn (qrafik dizayn, interyer dizaynı və landşaft dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 191.8,
+          "previousScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dizayn (qrafik dizayn, interyer dizaynı və landşaft dizaynı, tədris ingilis dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "currentScore": 205.5,
+          "previousScore": 243.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təsviri incəsənət müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "currentScore": 151.7,
+          "previousScore": 166.6,
+          "isSubBachelor": false
+        }
+      ]
+    }
+  ]
+}
