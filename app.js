@@ -70,41 +70,42 @@ function formatScore(score) {
 
 function render() {
     if (!currentGroupData) return;
-    
+
     const term = normalizeText(searchInput.value);
     const uni = uniFilter.value;
     const showEligible = eligibleOnly.checked;
-    
+
     // Group filtered results by university to render headers
     const resultsByUni = new Map();
     let resultCount = 0;
-    
+
     allPrograms.forEach(p => {
         if (uni && p.university !== uni) return;
         if (term && !p.searchKey.includes(term)) return;
         if (showEligible && (currentTotal == null || p.currentScore == null || currentTotal < p.currentScore)) return;
-        
+
         if (!resultsByUni.has(p.university)) {
             resultsByUni.set(p.university, []);
         }
         resultsByUni.get(p.university).push(p);
         resultCount++;
     });
-    
+
     tableWrap.hidden = resultCount === 0;
     emptyState.hidden = resultCount > 0;
-    
+
     if (resultCount === 0) {
         tableBody.innerHTML = '';
         return;
     }
-    
+
     let html = '';
-    
+    let rowIndex = 0;
+
     for (const [uniName, programs] of resultsByUni.entries()) {
         // Render University Header (sticky section header on mobile, section row on desktop)
         html += `<tr class="uni-header"><td colspan="6"><div class="uni-header-inner"><span class="uni-name">${uniName}</span><span class="uni-count">${programs.length} ixtisas</span></div></td></tr>`;
-        
+
         // Render Programs
         programs.forEach(p => {
             const ok = currentTotal !== null && p.currentScore !== null && currentTotal >= p.currentScore;
@@ -112,10 +113,10 @@ function render() {
             const aptitudeBadge = p.requiresAptitudeExam ? '<span class="badge badge-aptitude">Qabiliyyət</span>' : '';
             const branchNote = p.branch ? `<span class="branch-name">(${p.branch})</span>` : '';
             const rowClass = `${ok ? 'eligible' : ''} ${p.isSubBachelor ? 'sub-bachelor' : ''}`.trim();
-            
+
             const lang = p.languageOfInstruction ? p.languageOfInstruction : 'Azərbaycan';
-            
-            html += `<tr class="program-row ${rowClass}">
+
+            html += `<tr class="program-row ${rowClass}" style="--row-index: ${rowIndex + 1}">
                 <td class="col-specialty">
                     <div class="specialty-head">
                         <span class="specialty-name">${p.programName}</span>${branchNote}${aptitudeBadge}${eligibleBadge}
@@ -136,9 +137,10 @@ function render() {
                 <td class="col-score-2025" data-label="Keçid balı (2025)"><span class="mono">${formatScore(p.previousScore)}</span></td>
                 <td class="col-note" data-label="Qeyd"><span class="mono">${p.isSubBachelor ? 'Subbakalavr' : '—'}</span></td>
             </tr>`;
+            rowIndex++;
         });
     }
-    
+
     tableBody.innerHTML = html;
 }
 
@@ -158,6 +160,14 @@ $('#calculate').onclick = () => {
     $('#gauge-fill').style.strokeDashoffset = 283 * (1 - currentTotal / 700);
     $('#score-caption').textContent = 'Nəticənə uyğun seçimləri araşdır.';
     eligibleOnly.disabled = false;
+
+    // Add pulse animation to result panel
+    const resultPanel = $('.result-panel');
+    resultPanel.classList.add('pulse-animate');
+    setTimeout(() => {
+        resultPanel.classList.remove('pulse-animate');
+    }, 200);
+
     render();
 };
 

@@ -9,7 +9,7 @@
     <title>Keçid Balları</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@700&family=Source+Serif+4:wght@600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -21,7 +21,6 @@
                     <span class="brand-mark" aria-hidden="true">K</span>
                     <span class="brand-name">Keçid Balları</span>
                 </a>
-                <span class="topnote">Abituriyentlər üçün sadə bələdçi</span>
             </div>
         </div>
     </header>
@@ -29,32 +28,36 @@
     <section class="hero-section">
         <div class="container">
             <div class="calculator-card">
-                <div class="calc-main">
-                    <p class="eyebrow">700 ballıq sistem</p>
-                    <h1>Balını hesabla, seçimlərini gör.</h1>
-                    <p class="hero-intro">Buraxılış və blok imtahanı nəticələrini daxil et.</p>
-                    <div class="score-form">
-                        <div class="field">
-                            <label for="graduation">Buraxılış balı (maks. 300)</label>
-                            <input id="graduation" type="number" inputmode="decimal" min="0" max="300" placeholder="0">
-                        </div>
-                        <div class="field">
-                            <label for="block">Blok imtahanı (maks. 400)</label>
-                            <input id="block" type="number" inputmode="decimal" min="0" max="400" placeholder="0">
-                        </div>
-                        <button class="calculate" id="calculate" type="button">Hesabla</button>
+                <div class="calc-content">
+                    <div class="calc-header">
+                        <p class="eyebrow">700 ballıq sistem</p>
+                        <h1>Balını hesabla, seçimlərini gör.</h1>
+                        <p class="hero-intro">Buraxılış və blok imtahanı nəticələrini daxil et.</p>
                     </div>
-                    <p class="validation" id="validation-message" role="alert" aria-live="polite"></p>
-                </div>
-                <div class="result-panel">
-                    <div class="gauge-container">
-                        <svg class="gauge" viewBox="0 0 200 115" aria-hidden="true">
-                            <path class="gauge-base" d="M20 100 A80 80 0 0 1 180 100" />
-                            <path class="gauge-fill" id="gauge-fill" pathLength="283" d="M20 100 A80 80 0 0 1 180 100" />
-                        </svg>
+                    <div class="calc-main">
+                        <div class="score-form">
+                            <div class="field">
+                                <label for="graduation">Buraxılış balı (maks. 300)</label>
+                                <input id="graduation" type="number" inputmode="decimal" min="0" max="300" placeholder="0">
+                            </div>
+                            <div class="field">
+                                <label for="block">Blok imtahanı (maks. 400)</label>
+                                <input id="block" type="number" inputmode="decimal" min="0" max="400" placeholder="0">
+                            </div>
+                            <button class="calculate" id="calculate" type="button">Hesabla</button>
+                        </div>
+                        <p class="validation" id="validation-message" role="alert" aria-live="polite"></p>
                     </div>
-                    <p class="score-number"><span id="score-total">0</span> <span class="score-max">/ 700</span></p>
-                    <p class="score-caption" id="score-caption">Ballarını daxil edərək başla</p>
+                    <div class="result-panel">
+                        <div class="gauge-container">
+                            <svg class="gauge" viewBox="0 0 200 115" aria-hidden="true">
+                                <path class="gauge-base" d="M20 100 A80 80 0 0 1 180 100" />
+                                <path class="gauge-fill" id="gauge-fill" pathLength="283" d="M20 100 A80 80 0 0 1 180 100" />
+                            </svg>
+                        </div>
+                        <p class="score-number"><span id="score-total">0</span> <span class="score-max">/ 700</span></p>
+                        <p class="score-caption" id="score-caption">Ballarını daxil edərək başla</p>
+                    </div>
                 </div>
             </div>
         </div>
