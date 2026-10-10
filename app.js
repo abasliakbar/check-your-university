@@ -49,7 +49,7 @@ async function loadGroup(groupId) {
         render();
     } catch (e) {
         console.error("Failed to load group data", e);
-        tableBody.innerHTML = `<tr><td colspan="6">Məlumat yüklənərkən xəta baş verdi.</td></tr>`;
+        tableBody.innerHTML = `<tr><td colspan="6" class="error-cell">Məlumat yüklənərkən xəta baş verdi.</td></tr>`;
     }
 }
 
@@ -102,28 +102,39 @@ function render() {
     let html = '';
     
     for (const [uniName, programs] of resultsByUni.entries()) {
-        // Render University Header
-        html += `<tr class="uni-header"><td colspan="6">${uniName}</td></tr>`;
+        // Render University Header (sticky section header on mobile, section row on desktop)
+        html += `<tr class="uni-header"><td colspan="6"><div class="uni-header-inner"><span class="uni-name">${uniName}</span><span class="uni-count">${programs.length} ixtisas</span></div></td></tr>`;
         
         // Render Programs
         programs.forEach(p => {
             const ok = currentTotal !== null && p.currentScore !== null && currentTotal >= p.currentScore;
-            const eligibleBadge = ok ? '<span class="eligible-badge">✓ Keçirsiniz</span>' : '';
-            const aptitudeBadge = p.requiresAptitudeExam ? '<span class="aptitude-badge">Qabiliyyət</span>' : '';
+            const eligibleBadge = ok ? '<span class="badge badge-eligible">✓ Keçirsiniz</span>' : '';
+            const aptitudeBadge = p.requiresAptitudeExam ? '<span class="badge badge-aptitude">Qabiliyyət</span>' : '';
             const branchNote = p.branch ? `<span class="branch-name">(${p.branch})</span>` : '';
             const rowClass = `${ok ? 'eligible' : ''} ${p.isSubBachelor ? 'sub-bachelor' : ''}`.trim();
             
             const lang = p.languageOfInstruction ? p.languageOfInstruction : 'Azərbaycan';
             
-            html += `<tr class="${rowClass}">
-                <td>
-                    <span class="specialty">${p.programName}${branchNote}${aptitudeBadge}${eligibleBadge}</span>
+            html += `<tr class="program-row ${rowClass}">
+                <td class="col-specialty">
+                    <div class="specialty-head">
+                        <span class="specialty-name">${p.programName}</span>${branchNote}${aptitudeBadge}${eligibleBadge}
+                    </div>
+                    <div class="mobile-meta">
+                        <span class="meta-tag">${p.studyForm}</span>
+                        <span class="meta-tag">${lang}</span>
+                        ${p.isSubBachelor ? '<span class="meta-tag meta-sub">Subbakalavr</span>' : ''}
+                        <span class="mobile-score-prev">2025: <span class="mono">${formatScore(p.previousScore)}</span></span>
+                    </div>
                 </td>
-                <td data-label="Forma"><span class="pill">${p.studyForm}</span></td>
-                <td data-label="Dil"><span class="pill">${lang}</span></td>
-                <td data-label="Keçid balı (2026)"><span class="mono">${formatScore(p.currentScore)}</span></td>
-                <td data-label="Keçid balı (2025)"><span class="mono">${formatScore(p.previousScore)}</span></td>
-                <td data-label="Qeyd"><span class="mono">${p.isSubBachelor ? 'Subbakalavr' : '—'}</span></td>
+                <td class="col-form" data-label="Forma"><span class="pill">${p.studyForm}</span></td>
+                <td class="col-lang" data-label="Dil"><span class="pill">${lang}</span></td>
+                <td class="col-score-2026" data-label="Keçid balı (2026)">
+                    <span class="score-2026-val mono">${formatScore(p.currentScore)}</span>
+                    <span class="mobile-score-label">2026</span>
+                </td>
+                <td class="col-score-2025" data-label="Keçid balı (2025)"><span class="mono">${formatScore(p.previousScore)}</span></td>
+                <td class="col-note" data-label="Qeyd"><span class="mono">${p.isSubBachelor ? 'Subbakalavr' : '—'}</span></td>
             </tr>`;
         });
     }
