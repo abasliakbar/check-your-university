@@ -34,6 +34,8 @@ async function loadGroup(groupId) {
     try {
         const res = await fetch(`data/groups/group-${groupId}.json`);
         currentGroupData = await res.json();
+        $('.col-score-paid').textContent = 'Ödənişli keçid balı';
+        $('.col-score-funded').textContent = 'Dövlət sifarişi (pulsuz)';
 
         // Flatten programs for easier filtering, add university reference
         allPrograms = [];
@@ -114,6 +116,12 @@ function updateScoreState(score) {
     scoreMotivation.textContent = state.message;
 }
 
+function getEligibility(program) {
+    const paid = currentTotal !== null && program.paidScore !== null && currentTotal >= program.paidScore;
+    const funded = currentTotal !== null && program.fundedScore !== null && currentTotal >= program.fundedScore;
+    return { paid, funded, any: paid || funded };
+}
+
 function render() {
     if (!currentGroupData) return;
 
@@ -128,7 +136,7 @@ function render() {
     allPrograms.forEach(p => {
         if (uni && p.university !== uni) return;
         if (term && !p.searchKey.includes(term)) return;
-        if (showEligible && (currentTotal == null || p.currentScore == null || currentTotal < p.currentScore)) return;
+        if (showEligible && !getEligibility(p).any) return;
 
         if (!resultsByUni.has(p.university)) {
             resultsByUni.set(p.university, []);
@@ -154,8 +162,12 @@ function render() {
 
         // Render Programs
         programs.forEach(p => {
-            const ok = currentTotal !== null && p.currentScore !== null && currentTotal >= p.currentScore;
-            const eligibleBadge = ok ? '<span class="badge badge-eligible">✓ Keçirsiniz</span>' : '';
+            const eligibility = getEligibility(p);
+            const ok = eligibility.any;
+            const eligibilityBadges = [
+                eligibility.paid ? '<span class="badge badge-eligible">Ödənişli üçün uyğundur</span>' : '',
+                eligibility.funded ? '<span class="badge badge-eligible">Dövlət sifarişi üçün uyğundur</span>' : ''
+            ].join('');
             const aptitudeBadge = p.requiresAptitudeExam ? '<span class="badge badge-aptitude">Qabiliyyət</span>' : '';
             const branchNote = p.branch ? `<span class="branch-name">(${p.branch})</span>` : '';
             const rowClass = `${ok ? 'eligible' : ''} ${p.isSubBachelor ? 'sub-bachelor' : ''}`.trim();
@@ -165,22 +177,21 @@ function render() {
             html += `<tr class="program-row ${rowClass}" style="--row-index: ${rowIndex + 1}">
                 <td class="col-specialty">
                     <div class="specialty-head">
-                        <span class="specialty-name">${p.programName}</span>${branchNote}${aptitudeBadge}${eligibleBadge}
+                        <span class="specialty-name">${p.programName}</span>${branchNote}${aptitudeBadge}${eligibilityBadges}
                     </div>
                     <div class="mobile-meta">
                         <span class="meta-tag">${p.studyForm}</span>
                         <span class="meta-tag">${lang}</span>
                         ${p.isSubBachelor ? '<span class="meta-tag meta-sub">Subbakalavr</span>' : ''}
-                        <span class="mobile-score-prev">2025: <span class="mono">${formatScore(p.previousScore)}</span></span>
+                        <span class="mobile-score-prev">Ödənişli: <span class="mono">${formatScore(p.paidScore)}</span> · Dövlət sifarişi: <span class="mono">${formatScore(p.fundedScore)}</span></span>
                     </div>
                 </td>
                 <td class="col-form" data-label="Forma"><span class="pill">${p.studyForm}</span></td>
                 <td class="col-lang" data-label="Dil"><span class="pill">${lang}</span></td>
-                <td class="col-score-2026" data-label="Keçid balı (2026)">
-                    <span class="score-2026-val mono">${formatScore(p.currentScore)}</span>
-                    <span class="mobile-score-label">2026</span>
+                <td class="col-score-paid" data-label="Ödənişli keçid balı">
+                    <span class="score-paid-val mono">${formatScore(p.paidScore)}</span>
                 </td>
-                <td class="col-score-2025" data-label="Keçid balı (2025)"><span class="mono">${formatScore(p.previousScore)}</span></td>
+                <td class="col-score-funded" data-label="Dövlət sifarişi (pulsuz)"><span class="mono">${formatScore(p.fundedScore)}</span></td>
                 <td class="col-note" data-label="Qeyd"><span class="mono">${p.isSubBachelor ? 'Subbakalavr' : '—'}</span></td>
             </tr>`;
             rowIndex++;

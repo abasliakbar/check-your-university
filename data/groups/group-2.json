@@ -1,8 +1,4181 @@
 {
   "id": 2,
   "label": "2-ci qrup",
-  "year": 2026,
-  "sourceUrl": "https://qebulol.az/2-ci-qrup-kecid-ballari-2026/",
-  "scrapedAt": "2026-10-25T13:43:30.423075Z",
-  "universities": []
+  "year": 2027,
+  "sourceUrl": "https://qebulol.az/2-ci-qrup-kecid-ballari-2027/",
+  "scrapedAt": "2026-10-25T14:00:36.632313Z",
+  "universities": [
+    {
+      "name": "Bakı Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 334.8,
+          "fundedScore": 334.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosiologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 317.1,
+          "fundedScore": 317.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosiologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 326.9,
+          "fundedScore": 326.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 284.9,
+          "fundedScore": 406.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 272.3,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 289.9,
+          "fundedScore": 416.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 285.4,
+          "fundedScore": 420.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 290.0,
+          "fundedScore": 470.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 272.7,
+          "fundedScore": 378.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Coğrafiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 237.8,
+          "fundedScore": 237.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Hidrometeorologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 274.8,
+          "fundedScore": 274.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Statistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 339.1,
+          "fundedScore": 339.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 315.3,
+          "fundedScore": 315.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 296.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 266.0,
+          "fundedScore": 266.0,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Neft və Sənaye Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 323.2,
+          "fundedScore": 404.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 308.4,
+          "fundedScore": 426.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 268.2,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 290.1,
+          "fundedScore": 517.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 301.5,
+          "fundedScore": 419.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 333.7,
+          "fundedScore": 417.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 254.7,
+          "fundedScore": 349.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 358.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 268.7,
+          "fundedScore": 384.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 381.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Texniki Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 294.7,
+          "fundedScore": 403.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 248.2,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 293.7,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 272.5,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 298.8,
+          "fundedScore": 425.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 294.3,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 302.1,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 235.5,
+          "fundedScore": 357.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 259.8,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 275.5,
+          "fundedScore": 388.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Statistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 326.2,
+          "fundedScore": 326.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyatda servis (avtomobil nəqliyyat üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 315.4,
+          "fundedScore": 315.4,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Memarlıq və İnşaat Universiteti",
+      "programs": [
+        {
+          "programName": "Davamlı inkişaf",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 238.9,
+          "fundedScore": 376.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 244.1,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 216.3,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 269.7,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 229.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 233.8,
+          "fundedScore": 356.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 213.1,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 273.2,
+          "fundedScore": 349.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 247.4,
+          "fundedScore": 390.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 222.7,
+          "fundedScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Pedaqoji Universiteti",
+      "programs": [
+        {
+          "programName": "Coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 271.9,
+          "fundedScore": 293.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 335.5,
+          "fundedScore": 335.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 281.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 282.0,
+          "fundedScore": 282.0,
+          "isSubBachelor": false,
+          "branch": "Şamaxı filialı"
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 249.5,
+          "fundedScore": 250.7,
+          "isSubBachelor": false,
+          "branch": "Şəki filialı"
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 276.4,
+          "isSubBachelor": false,
+          "branch": "Şəki filialı"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 64.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 268.0,
+          "fundedScore": 268.0,
+          "isSubBachelor": false,
+          "branch": "Cəlilabad filialı"
+        },
+        {
+          "programName": "Coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 253.6,
+          "fundedScore": 298.8,
+          "isSubBachelor": false,
+          "branch": "Quba filialı"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət İqtisad Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 408.1,
+          "fundedScore": 408.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 234.7,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 344.5,
+          "fundedScore": 404.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 547.7,
+          "fundedScore": 547.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 336.9,
+          "fundedScore": 461.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 227.9,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 303.6,
+          "fundedScore": 559.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 567.2,
+          "fundedScore": 567.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 316.7,
+          "fundedScore": 364.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 224.6,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 277.8,
+          "fundedScore": 364.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 441.1,
+          "fundedScore": 441.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 265.3,
+          "fundedScore": 451.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 370.5,
+          "fundedScore": 416.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 586.4,
+          "fundedScore": 586.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 499.5,
+          "fundedScore": 499.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 271.3,
+          "fundedScore": 498.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 362.8,
+          "fundedScore": 470.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 603.7,
+          "fundedScore": 603.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 353.6,
+          "fundedScore": 353.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 230.7,
+          "fundedScore": 353.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 352.2,
+          "fundedScore": 352.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 319.5,
+          "fundedScore": 377.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 232.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 367.1,
+          "fundedScore": 367.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 235.0,
+          "fundedScore": 339.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 366.0,
+          "fundedScore": 366.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 520.7,
+          "fundedScore": 520.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Statistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 355.1,
+          "fundedScore": 355.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 79.5,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 79.9,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 185.2,
+          "fundedScore": 465.6,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 195.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 77.8,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 87.5,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 343.6,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 87.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 286.7,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Bakı Mühəndislik Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 255.3,
+          "fundedScore": 433.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 201.2,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 206.1,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 99.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 261.5,
+          "fundedScore": 486.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 241.1,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 198.9,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 256.3,
+          "fundedScore": 428.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 207.7,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 280.8,
+          "fundedScore": 430.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 261.2,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 212.3,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 294.7,
+          "fundedScore": 476.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 194.1,
+          "fundedScore": 392.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 183.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 241.1,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 253.8,
+          "fundedScore": 339.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 201.8,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 344.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Nəqliyyatda servis (avtomobil nəqliyyat üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 238.9,
+          "fundedScore": 299.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyatda servis (avtomobil nəqliyyat üzrə)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 83.7,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 287.9,
+          "fundedScore": 287.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 98.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası",
+      "programs": [
+        {
+          "programName": "Davamlı inkişaf",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 377.6,
+          "fundedScore": 377.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 395.3,
+          "fundedScore": 395.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 490.8,
+          "fundedScore": 490.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 381.1,
+          "fundedScore": 381.1,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "ADA Universiteti",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 475.9,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 625.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 400.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 641.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 473.4,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti",
+      "programs": [
+        {
+          "programName": "Sosiologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 237.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 174.3,
+          "fundedScore": 254.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 277.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 96.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Turizm və Menecment Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 253.7,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 227.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 241.2,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 254.9,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 242.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 254.3,
+          "fundedScore": 254.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 180.5,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 231.5,
+          "fundedScore": 274.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 213.3,
+          "fundedScore": 286.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 232.7,
+          "fundedScore": 280.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan İdman Akademiyası",
+      "programs": [
+        {
+          "programName": "İdman menecmenti və kommunikasiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 214.3,
+          "fundedScore": 261.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İdman menecmenti və kommunikasiya",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 316.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 92.7,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İdman menecmenti və kommunikasiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 341.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Milli Aviasiya Akademiyası",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 269.9,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 276.2,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 292.2,
+          "fundedScore": 432.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 312.9,
+          "fundedScore": 482.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 354.8,
+          "fundedScore": 473.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Menecment (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 263.9,
+          "fundedScore": 386.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Hidrometeorologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 299.4,
+          "fundedScore": 299.4,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Ali Neft Məktəbi",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 603.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 400.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 648.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 463.5,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Dövlət Gömrük Komitəsinin Akademiyası",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 414.4,
+          "fundedScore": 414.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 485.0,
+          "fundedScore": 485.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 348.7,
+          "fundedScore": 420.6,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Naxçıvan Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 313.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 242.4,
+          "fundedScore": 406.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 221.3,
+          "fundedScore": 364.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 272.0,
+          "fundedScore": 419.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 226.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 318.1,
+          "fundedScore": 419.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 256.6,
+          "fundedScore": 470.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 175.5,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 192.5,
+          "fundedScore": 414.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 238.7,
+          "fundedScore": 338.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 199.7,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Coğrafiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 260.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 174.0,
+          "fundedScore": 276.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 152.1,
+          "fundedScore": 275.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 170.5,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 238.5,
+          "fundedScore": 445.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 166.7,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 283.5,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 258.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 157.6,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 383.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 79.9,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 172.9,
+          "fundedScore": 401.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 179.9,
+          "fundedScore": 344.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 187.2,
+          "fundedScore": 346.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Gəncə Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 294.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 296.8,
+          "fundedScore": 296.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 86.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 176.3,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 194.8,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 201.7,
+          "fundedScore": 463.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 84.6,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 210.3,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 82.5,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 171.5,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 89.2,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 153.8,
+          "fundedScore": 378.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 254.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 88.4,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 274.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 74.9,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 94.5,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Texnologiya Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.5,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 83.5,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 161.6,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 162.1,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 214.4,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 79.6,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 98.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 87.8,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 153.4,
+          "fundedScore": 355.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 98.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Nəqliyyatda servis (avtomobil nəqliyyatı üzrə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 310.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 72.5,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 273.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 276.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 94.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Sumqayıt Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 317.2,
+          "fundedScore": 317.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sosiologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 204.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 231.7,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 196.1,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 196.7,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 170.2,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 199.4,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 231.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 229.5,
+          "fundedScore": 555.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 193.1,
+          "fundedScore": 373.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 177.2,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 222.1,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 189.3,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 224.0,
+          "fundedScore": 340.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 191.5,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 184.0,
+          "fundedScore": 274.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 173.0,
+          "fundedScore": 304.9,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Mingəçevir Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 178.8,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 86.4,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 165.7,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 170.4,
+          "fundedScore": 371.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 162.6,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 192.7,
+          "fundedScore": 431.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 199.8,
+          "fundedScore": 524.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 364.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 83.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 95.7,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 89.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 95.7,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 340.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 93.5,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 157.2,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 254.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 258.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 88.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 278.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 72.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 92.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Lənkəran Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 291.1,
+          "fundedScore": 291.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 78.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 99.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 186.7,
+          "fundedScore": 431.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 96.4,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 189.7,
+          "fundedScore": 483.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 99.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 413.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 74.7,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 90.8,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 84.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 94.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 347.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 85.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 344.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 95.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 255.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 86.5,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 274.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 88.2,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Qarabağ Universiteti",
+      "programs": [
+        {
+          "programName": "Coğrafiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 352.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 382.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 356.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 350.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 415.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 500.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 350.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 354.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 303.6,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Kooperasiya Universiteti",
+      "programs": [
+        {
+          "programName": "Davamlı inkişaf",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 71.6,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 202.5,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 92.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 98.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 81.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 94.8,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 90.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat (tədris Azərbaycan dilində)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 152.9,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 88.8,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə (tədris Azərbaycan dilində)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 98.9,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 83.4,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 97.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 90.7,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 97.6,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 88.7,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 97.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 257.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 72.5,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 92.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 280.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 74.8,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 299.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 66.6,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "“Azərbaycan” Universiteti",
+      "programs": [
+        {
+          "programName": "Beynəlxalq ticarət və logistika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 238.8,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 161.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 249.3,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 234.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.7,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 237.8,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 247.5,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 187.2,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 197.7,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 215.8,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 212.4,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 214.8,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 223.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 275.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 80.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 92.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 274.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 90.2,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Qərbi Kaspi Universiteti",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 70.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 93.5,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 65.9,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 86.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 85.5,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 71.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 93.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 82.4,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 96.6,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm bələdçiliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 254.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 280.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 88.8,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 69.9,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Xəzər Universiteti",
+      "programs": [
+        {
+          "programName": "Coğrafiya müəllimliyi (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 298.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tarix və coğrafiya müəllimliyi (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 291.0,
+          "fundedScore": 291.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 85.2,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 220.1,
+          "fundedScore": 418.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 221.0,
+          "fundedScore": 470.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 352.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 83.2,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 202.1,
+          "fundedScore": 393.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 342.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 86.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 274.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Bakı Avrasiya Universiteti",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 80.9,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 83.4,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 180.6,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 187.2,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 196.7,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 85.6,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 163.7,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 94.7,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 288.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 75.2,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "“Odlar Yurdu” Universiteti",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 95.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.1,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 179.9,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 207.4,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 92.4,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 210.4,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 95.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 98.9,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 88.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 83.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 98.9,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 162.5,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 92.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 99.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 96.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 86.2,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 278.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 71.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Turizm işinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Bakı Biznes Universiteti",
+      "programs": [
+        {
+          "programName": "Biznesin idarə edilməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 88.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 182.9,
+          "fundedScore": 377.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 201.5,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 227.9,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.9,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 86.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 180.5,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 169.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Menecment",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 164.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 153.3,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 98.6,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Əmək və Sosial Münasibətlər Akademiyası",
+      "programs": [
+        {
+          "programName": "Dövlət və bələdiyyə idarəetməsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 165.2,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İqtisadiyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 186.6,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maliyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 195.6,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Marketinq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 87.7,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 164.3,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mühasibat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 93.6,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    }
+  ]
 }

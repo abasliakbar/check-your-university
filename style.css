@@ -843,35 +843,11 @@ tr.program-row:last-child {
   color: var(--text-muted);
 }
 
-/* 2026 Score Cell (Right) */
-.col-score-2026 {
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: column;
-  align-items: flex-end;
-  padding: 0;
-  border: none;
-  text-align: right;
-}
-
-.score-2026-val {
-  font-size: 1.0625rem;
-  font-weight: 700;
-  color: var(--text);
-  line-height: 1.2;
-}
-
-.mobile-score-label {
-  display: block;
-  font-size: 0.6875rem;
-  color: var(--text-muted);
-  margin-top: 1px;
-}
-
 /* Hidden on mobile */
 .col-form,
 .col-lang,
-.col-score-2025,
+.col-score-paid,
+.col-score-funded,
 .col-note {
   display: none;
 }
@@ -911,8 +887,8 @@ tr.program-row:last-child {
     text-align: left;
   }
 
-  th.col-score-2026,
-  th.col-score-2025 {
+  th.col-score-paid,
+  th.col-score-funded {
     text-align: right;
   }
 
@@ -953,18 +929,20 @@ tr.program-row:last-child {
     width: 100px;
   }
 
-  .col-score-2026,
-  .col-score-2025 {
+  .col-score-paid,
+  .col-score-funded {
     display: table-cell;
     width: 120px;
     text-align: right;
   }
 
-  .score-2026-val {
+  .score-paid-val {
     font-size: 0.9375rem;
+    font-weight: 700;
+    color: var(--text);
   }
 
-  .col-score-2025 .mono {
+  .col-score-funded .mono {
     font-size: 0.875rem;
     color: var(--text-muted);
   }
@@ -974,8 +952,7 @@ tr.program-row:last-child {
     color: var(--text-muted);
   }
 
-  .mobile-meta,
-  .mobile-score-label {
+  .mobile-meta {
     display: none;
   }
 

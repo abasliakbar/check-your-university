@@ -1,8 +1,1761 @@
 {
   "id": 5,
   "label": "5-ci qrup",
-  "year": 2026,
-  "sourceUrl": "https://qebulol.az/5-ci-qrup-kecid-ballari-2026/",
-  "scrapedAt": "2026-10-25T13:43:32.323592Z",
-  "universities": []
+  "year": 2027,
+  "sourceUrl": "https://qebulol.az/5-ci-qrup-kecid-ballari-2027/",
+  "scrapedAt": "2026-10-25T14:00:38.170932Z",
+  "universities": [
+    {
+      "name": "Bakı Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fiziki tərbiyə və çağırışaqədərki hazırlıq müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 122.4,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Memarlıq və İnşaat Universiteti",
+      "programs": [
+        {
+          "programName": "Dizayn (interyer dizayn, qrafik dizayn)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 153.1,
+          "fundedScore": 212.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dizayn (interyer dizayn, qrafik dizayn)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 220.2,
+          "fundedScore": 220.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Pedaqoji Universiteti",
+      "programs": [
+        {
+          "programName": "Fiziki tərbiyə və çağırışaqədərki hazırlıq müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 130.6,
+          "fundedScore": 169.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Musiqi müəllimliyi (fortepiano, violin, qarmon, tar, saz, kamança, qanun, klarnet, balaban, vokal)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 79.5,
+          "fundedScore": 97.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təsviri incəsənət müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 144.9,
+          "fundedScore": 158.1,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət İqtisad Universiteti",
+      "programs": [
+        {
+          "programName": "Dizayn (geyim dizaynı, interyer dizaynı, eksteryer dizaynı, sənaye dizaynı, qrafik dizayn)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 186.7,
+          "fundedScore": 218.9,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Mühəndislik Universiteti",
+      "programs": [
+        {
+          "programName": "Dekorativ-tətbiqi sənət (bədii keramika, şüşə, xalça, bədii toxuculuq)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 161.7,
+          "fundedScore": 196.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dizayn (interyer dizaynı, qrafik dizayn, sənaye dizaynı, geyim dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 158.9,
+          "fundedScore": 234.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dizayn (interyer dizaynı, qrafik dizayn, sənaye dizaynı, geyim dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 205.3,
+          "fundedScore": 219.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "ADA Universiteti",
+      "programs": [
+        {
+          "programName": "Dizayn (interyer dizayn)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 186.9,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Dizayn (kommunikasiya dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 148.3,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Üzeyir Hacıbəyli adına Bakı Musiqi Akademiyası",
+      "programs": [
+        {
+          "programName": "Musiqi müəllimliyi (fortepiano, violin, viola, violonçel, kontrabas, arfa, fleyta, qoboy, klarnet, saksofon, faqot, valtorna, truba, trombon, tuba, zərb alətləri)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 102.7,
+          "fundedScore": 102.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Bəstəkarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dirijorluq (xor dirijoru, nəfəs alətləri orkestrinin dirijorluğu)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnstrumental ifaçılıq (fortepiano, orqan, klavesin, violin, viola, violonçel, kontrabas, arfa, fleyta, qoboy, klarnet, saksofon, faqot, valtorna, truba, trombon, tuba, zərb alətləri)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Musiqişünaslıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Populyar musiqi və caz ifaçılığı (vokal, fortepiano, saksofon və zərb alətləri)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Vokal sənəti (akademik vokal)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Milli Konservatoriyası",
+      "programs": [
+        {
+          "programName": "Musiqi müəllimliyi (fortepiano, tar, kamança, qanun, balaban, saz, tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 105.7,
+          "fundedScore": 105.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Bəstəkarlıq (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dirijorluq (xalq çalğı alətləri orkestrinin dirijorluğu, tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dirijorluq (xor dirijorluğu, tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnstrumental ifaçılıq (tar, kamança, qanun, balaban, saz, tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Musiqişünaslıq (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Populyar musiqi və caz ifaçılığı (vokal, alətlər üzrə: fortepiano, violin, akkordeon, klarnet, saksofon, fleyta, qoboy, truba, gitara, tar, kamança, balaban, qanun, zərb alətləri, tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Vokal sənəti (xanəndəlik, tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Vokal sənəti (milli vokal, tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti",
+      "programs": [
+        {
+          "programName": "Musiqi müəllimliyi (fortepiano,violin, viola, gitara, klarnet, saksofon,fleyta, zərb alətləri, tar, kamança, qarmon, saz, qanun, nağara, balaban, vokal)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 95.9,
+          "fundedScore": 98.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təsviri incəsənət müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 172.9,
+          "fundedScore": 172.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aktyor sənəti (dram teatrı və kino aktyoru, musiqili teatr aktyoru)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Aktyor sənəti (dram teatrı və kino aktyoru, musiqili teatr aktyoru)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Dekorativ-tətbiqi sənət (bədii xalça, bədii toxuculuq)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dizayn (geyim dizaynı, interyer dizaynı və qrafik dizayn)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 149.7,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnstrumental ifaçılıq (fortepiano, violin, viola, gitara, klarnet, saksofon, zərb alətləri)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnstrumental ifaçılıq (tar, kamança, qanun, nağara, balaban, saz)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Qrafika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Musiqişünaslıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Operator sənəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Operator sənəti",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Populyar musiqi və caz ifaçılığı (vokal)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Rejissorluq (televiziya rejissoru, kino rejissoru, teatr rejissoru, animasiya rejissoru)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Rəngkarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Vokal sənəti (xanəndəlik)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Rəssamlıq Akademiyası",
+      "programs": [
+        {
+          "programName": "Təsviri incəsənət müəllimliyi (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 178.5,
+          "fundedScore": 178.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dekorativ-tətbiqi sənət (bədii xalça, bədii toxuculuq, bədii keramika və şüşə, bədii metal, tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Dizayn (interyer dizaynı, sənaye dizaynı, qrafik dizayn, geyim dizaynı, kukla rəssamı, tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 144.6,
+          "fundedScore": 215.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Heykəltəraşlıq (monumental heykəltəraşlıq, dəzgah heykəltəraşlığı, tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Qrafika (dəzgah qrafikası, kitab tərtibatı və illüstrasiyası, plakat, animasiya üzrə quruluşçu rəssam, tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Rəngkarlıq (monumental rəngkarlıq, dəzgah rəngkarlığı, teatr dekorasiyası rəngkarlığı, kino rəssamı, tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Bakı Xoreoqrafiya Akademiyası",
+      "programs": [
+        {
+          "programName": "Xoreoqrafiya sənəti (milli rəqs, modern rəqs, balet pedaqogikası, baletmeyster sənəti, rəqs müəllimliyi)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Xoreoqrafiya sənəti (milli rəqs, modern rəqs, balet pedaqogikası, baletmeyster sənəti, rəqs müəllimliyi)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnstrumental ifaçılıq (nağara, qarmon)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan İdman Akademiyası",
+      "programs": [
+        {
+          "programName": "Fiziki tərbiyə və çağırışaqədərki hazırlıq müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 138.4,
+          "fundedScore": 160.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Adaptiv bədən tərbiyəsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 134.7,
+          "fundedScore": 157.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kütləvi-sağlamlaşdırıcı idman",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 127.4,
+          "fundedScore": 150.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kütləvi-sağlamlaşdırıcı idman",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": 125.9,
+          "fundedScore": 150.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ümumi fiziki hazırlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 121.8,
+          "fundedScore": 151.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ümumi fiziki hazırlıq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": 114.5,
+          "fundedScore": 153.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (ağırlıqqaldırma)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (ağırlıqqaldırma)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (idman dırmanması)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Məşqçilik (atıcılıq)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (atıcılıq)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (atletika)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (atletika)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (badminton)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (kanoe və avarçəkmə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (basketbol)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (basketbol)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (boks)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (boks)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (cüdo)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (cüdo)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (futbol)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (gimnastika)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (gimnastika)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (sərbəst güləş)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (sərbəst güləş)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (yunan-Roma güləşi)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (yunan-Roma güləşi)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (həndbol)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (həndbol)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (kamandan oxatma)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (karate)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (karate)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (qılıncoynatma)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (qış idman növləri)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (şahmat)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (sambo)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (stolüstü tennis)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (stolüstü tennis)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (taekvando)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (taekvando)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (tennis)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (triatlon)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (üzgüçülük)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (üzgüçülük)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (velosiped)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (velosiped)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (voleybol)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (ağırlıqqaldırma)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (atıcılıq)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (atletika)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (badminton)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (kanoe və avarçəkmə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (basketbol)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (boks)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (cüdo)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (futbol)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (sərbəst güləş)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (yunan-Roma güləşi)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (həndbol)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (qılıncoynatma)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (qış idman növləri)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (stolüstü tennis)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (taekvando)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (tennis)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Məşqçilik (velosiped)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Naxçıvan Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Dizayn (interyer dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 148.5,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fiziki tərbiyə və çağırışaqədərki hazırlıq müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 131.0,
+          "fundedScore": 161.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Musiqi müəllimliyi (fortepiano, tar, kamança, qarmon, nağara, saz, zurna)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 60.0,
+          "fundedScore": 98.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 77.2,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Təsviri incəsənət müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 123.3,
+          "fundedScore": 170.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aktyor sənəti (teatr və kino aktyorluğu, musiqili teatr aktyorluğu)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Bəstəkarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dirijorluq (xor dirijorluğu, nəfəs alətləri orkestrinin dirijorluğu)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnstrumental ifaçılıq (tar, kamança, qarmon, balaban, qanun, nağara, saz)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnstrumental ifaçılıq (tar, kamança, qarmon, balaban, qanun, nağara, saz)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnstrumental ifaçılıq (fortepiano)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnstrumental ifaçılıq (violin, viola, violonçel, kontrabas)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnstrumental ifaçılıq (fleyta, klarnet, saksofon, truba, trombon, qoboy, valtorna, faqot, tuba, zərb alətləri)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Musiqişünaslıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Musiqişünaslıq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Rəngkarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Vokal sənəti (xanəndəlik, milli vokal)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Məşqçilik (atletika)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (atletika)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (voleybol)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (voleybol)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Məşqçilik (futbol)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (futbol)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Dizayn (interyer dizayn, qrafik dizayn, tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 170.3,
+          "fundedScore": 229.8,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Gəncə Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fiziki tərbiyə və çağırışaqədərki hazırlıq müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 134.8,
+          "fundedScore": 163.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Musiqi müəllimliyi (fortepiano, qarmon, tar, saz, kamança, violin, viola, klarnet, balaban, nağara, zərb alətləri, vokal, xanəndəlik, nəzəriyyə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 74.9,
+          "fundedScore": 97.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Təsviri incəsənət müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 127.2,
+          "fundedScore": 160.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ümumi fiziki hazırlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 118.9,
+          "fundedScore": 156.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (futbol)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (atletika)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (atletika)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (boks)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (sərbəst güləş)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (sərbəst güləş)",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Məşqçilik (yunan-Roma güləşi)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (basketbol)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Məşqçilik (voleybol)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Texnologiya Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Dizayn (geyim dizaynı, sənaye dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 141.7,
+          "fundedScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Sumqayıt Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fiziki tərbiyə və çağırışaqədərki hazırlıq müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 134.2,
+          "fundedScore": 168.2,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Lənkəran Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Musiqi müəllimliyi (fortepiano, qarmon, tar, saz, kamança, qanun, violin, gitara, klarnet, balaban, nağara, vokal)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 60.0,
+          "fundedScore": 127.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 76.8,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Təsviri incəsənət müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 126.9,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dizayn (interyer dizaynı, qrafik dizayn, sənaye dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 139.3,
+          "fundedScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Qarabağ Universiteti",
+      "programs": [
+        {
+          "programName": "Musiqi müəllimliyi (fortepiano)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": 132.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Musiqi müəllimliyi (fleyta, qoboy, klarnet, faqot, valtorna, truba, trombon, zərb alətləri, violin, viola, violonçel, kontrabas, tar, kamança, saz, nağara, qanun, balaban, qarmon)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": 87.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dekorativ-tətbiqi sənət (bədii toxuculuq, keramika, şüşə)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dizayn (interyer dizaynı, qrafik dizayn, geyim dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": 155.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnstrumental ifaçılıq (fleyta, qoboy, klarnet, faqot, valtorna, truba, trombon, zərb alətləri, violin, viola, violonçel, kontrabas, orqan, gitara)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnstrumental ifaçılıq (tar, kamança, saz, nağara, qanun, balaban)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnstrumental ifaçılıq (fortepiano)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Rəngkarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Vokal sənəti (xanəndəlik)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": null,
+          "fundedScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Qərbi Kaspi Universiteti",
+      "programs": [
+        {
+          "programName": "Dizayn (interyer dizaynı, qrafik dizayn və sənaye dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 155.8,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dizayn (interyer dizaynı, qrafik dizayn və sənaye dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 194.6,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Xəzər Universiteti",
+      "programs": [
+        {
+          "programName": "Dizayn (interyer dizaynı, qrafik dizayn və landşaft dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 188.8,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dizayn (interyer dizaynı, qrafik dizayn və landşaft dizaynı)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 195.9,
+          "fundedScore": 228.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Təsviri incəsənət müəllimliyi (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 165.3,
+          "fundedScore": 165.3,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "“Odlar Yurdu” Universiteti",
+      "programs": [
+        {
+          "programName": "Dizayn (interyer dizayn; qrafik dizayn; modelyer dizayn)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 133.6,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dizayn (interyer dizayn; qrafik dizayn; modelyer dizayn)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 135.1,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    }
+  ]
 }

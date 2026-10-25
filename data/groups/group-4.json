@@ -1,8 +1,1238 @@
 {
   "id": 4,
   "label": "4-ci qrup",
-  "year": 2026,
-  "sourceUrl": "https://qebulol.az/4-cu-qrup-kecid-ballari-2026/",
-  "scrapedAt": "2026-10-25T13:43:31.684262Z",
-  "universities": []
+  "year": 2027,
+  "sourceUrl": "https://qebulol.az/4-cu-qrup-kecid-ballari-2027/",
+  "scrapedAt": "2026-10-25T14:00:37.728750Z",
+  "universities": [
+    {
+      "name": "Bakı Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 397.7,
+          "fundedScore": 397.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 397.3,
+          "fundedScore": 397.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 489.0,
+          "fundedScore": 492.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 581.7,
+          "fundedScore": 581.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 466.9,
+          "fundedScore": 466.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 552.3,
+          "fundedScore": 552.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biotexnologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 562.4,
+          "fundedScore": 562.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biotexnologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 605.9,
+          "fundedScore": 605.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 296.0,
+          "fundedScore": 315.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 368.6,
+          "fundedScore": 391.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 466.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Su bioehtiyatları və akvakultura",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 258.8,
+          "fundedScore": 260.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Bitki mühafizəsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 258.9,
+          "fundedScore": 258.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya və biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 276.4,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Neft və Sənaye Universiteti",
+      "programs": [
+        {
+          "programName": "Biotexnologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 562.7,
+          "fundedScore": 562.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 535.8,
+          "fundedScore": 535.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Tibb Universiteti",
+      "programs": [
+        {
+          "programName": "Əczaçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 586.2,
+          "fundedScore": 587.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fizioterapiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 616.5,
+          "fundedScore": 616.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İctimai səhiyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 606.6,
+          "fundedScore": 606.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb bacısı (qardaşı) işi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 517.6,
+          "fundedScore": 517.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Stomatologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 627.8,
+          "fundedScore": 627.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 638.5,
+          "fundedScore": 638.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 692.8,
+          "fundedScore": 692.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Pedaqoji Universiteti",
+      "programs": [
+        {
+          "programName": "Biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 261.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 252.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya və biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 337.5,
+          "fundedScore": 337.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 469.9,
+          "isSubBachelor": false,
+          "branch": "Şəki filialı"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət İqtisad Universiteti",
+      "programs": [
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 266.9,
+          "fundedScore": 266.9,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dillər Universiteti",
+      "programs": [
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 456.5,
+          "fundedScore": 458.4,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Slavyan Universiteti",
+      "programs": [
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 478.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Bakı Mühəndislik Universiteti",
+      "programs": [
+        {
+          "programName": "Biotexnologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 428.1,
+          "fundedScore": 561.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biotexnologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 561.3,
+          "fundedScore": 561.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biotexnologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 493.7,
+          "fundedScore": 561.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 487.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 413.9,
+          "fundedScore": 467.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 367.7,
+          "fundedScore": 468.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan İdman Akademiyası",
+      "programs": [
+        {
+          "programName": "Fizioterapiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 440.0,
+          "fundedScore": 470.9,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Naxçıvan Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 319.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 462.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 328.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 95.5,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 563.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Baytarlıq təbabəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 151.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 75.0,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Bitki mühafizəsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 191.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 80.3,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Əczaçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 508.9,
+          "fundedScore": 508.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İctimai səhiyyə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 588.7,
+          "fundedScore": 588.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb bacısı (qardaşı) işi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 430.0,
+          "fundedScore": 430.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Stomatologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 620.6,
+          "fundedScore": 620.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 622.2,
+          "fundedScore": 622.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 624.6,
+          "fundedScore": 624.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Biotexnologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 90.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 260.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 88.5,
+          "fundedScore": 90.6,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Su bioehtiyatları və akvakultura",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 151.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 88.1,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Bağçılıq və tərəvəzçilik",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 182.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 93.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Bağçılıq və tərəvəzçilik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 81.4,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Bağçılıq və tərəvəzçilik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 172.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Baytarlıq təbabəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 153.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 83.1,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Baytarlıq təbabəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 277.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Bitki mühafizəsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 178.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 89.0,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Bitki mühafizəsi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 83.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Əczaçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 335.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 83.5,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Gəncə Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 252.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 221.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya və biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 273.2,
+          "fundedScore": 294.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya və biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 272.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 226.7,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 334.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 87.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 370.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 86.7,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 91.5,
+          "fundedScore": 91.5,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Texnologiya Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 85.6,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Sumqayıt Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 222.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 344.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 248.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya və biologiya müəllimliyi (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 246.7,
+          "fundedScore": 256.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 501.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 332.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 92.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 203.0,
+          "fundedScore": 225.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Mingəçevir Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Kimya və biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 236.8,
+          "fundedScore": 291.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 86.5,
+          "fundedScore": 90.6,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Lənkəran Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Kimya və biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 260.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 327.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 85.3,
+          "fundedScore": 90.8,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 77.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Baytarlıq təbabəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 161.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 78.7,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Qarabağ Universiteti",
+      "programs": [
+        {
+          "programName": "Biologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 353.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 379.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 496.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 445.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 454.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Əczaçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 562.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb bacısı (qardaşı) işi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 470.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Stomatologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 624.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Tibb",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 634.2,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Kooperasiya Universiteti",
+      "programs": [
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 89.0,
+          "fundedScore": 90.6,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Qərbi Kaspi Universiteti",
+      "programs": [
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 469.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 558.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 332.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 90.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 407.9,
+          "fundedScore": 407.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biotexnologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.3,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 244.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 91.3,
+          "fundedScore": 91.3,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Su bioehtiyatları və akvakultura",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 158.4,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Xəzər Universiteti",
+      "programs": [
+        {
+          "programName": "Biologiya müəllimliyi (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 274.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya və biologiya müəllimliyi (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 302.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 402.1,
+          "fundedScore": 460.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biotexnologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 569.3,
+          "fundedScore": 569.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Baytarlıq təbabəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 289.9,
+          "fundedScore": 289.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Baytarlıq təbabəti",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 373.2,
+          "fundedScore": 373.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "“Odlar Yurdu” Universiteti",
+      "programs": [
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Psixologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Biologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 334.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 90.7,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Ekologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 242.4,
+          "fundedScore": 247.5,
+          "isSubBachelor": false
+        }
+      ]
+    }
+  ]
 }

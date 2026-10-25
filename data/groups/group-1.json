@@ -3,6 +3,4815 @@
   "label": "1-ci qrup",
   "year": 2027,
   "sourceUrl": "https://qebulol.az/1-ci-qrup-kecid-ballari-2027/",
-  "scrapedAt": "2027-10-25T13:43:29.550168Z",
-  "universities": []
+  "scrapedAt": "2026-10-25T14:00:35.743763Z",
+  "universities": [
+    {
+      "name": "Bakı Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 315.4,
+          "fundedScore": 315.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 366.4,
+          "fundedScore": 366.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 335.0,
+          "fundedScore": 335.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 486.8,
+          "fundedScore": 486.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 577.0,
+          "fundedScore": 577.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Fizika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 274.9,
+          "fundedScore": 274.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fizika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.0,
+          "fundedScore": 284.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Geologiya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 234.1,
+          "fundedScore": 234.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 406.3,
+          "fundedScore": 406.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 502.0,
+          "fundedScore": 502.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mexanika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 239.2,
+          "fundedScore": 239.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 362.5,
+          "fundedScore": 362.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 467.4,
+          "fundedScore": 467.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 231.7,
+          "fundedScore": 243.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Geologiya və geofizika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 208.2,
+          "fundedScore": 208.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Geomatika və geodeziya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 209.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 89.4,
+          "fundedScore": 89.4,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 458.2,
+          "fundedScore": 458.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 353.0,
+          "fundedScore": 437.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 407.8,
+          "fundedScore": 439.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 351.4,
+          "fundedScore": 351.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Meliorasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 198.9,
+          "fundedScore": 240.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mədən mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 207.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 68.9,
+          "fundedScore": 70.6,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühəndislik fizikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 264.4,
+          "fundedScore": 264.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 235.2,
+          "fundedScore": 235.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 269.5,
+          "fundedScore": 269.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 219.7,
+          "fundedScore": 417.5,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 251.1,
+          "fundedScore": 251.1,
+          "isSubBachelor": false,
+          "branch": "Qazax filialı"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Neft və Sənaye Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.0,
+          "fundedScore": 260.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 451.6,
+          "fundedScore": 451.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 564.5,
+          "fundedScore": 564.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 364.2,
+          "fundedScore": 364.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Cihaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 260.4,
+          "fundedScore": 260.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Cihaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 315.3,
+          "fundedScore": 315.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Data analitikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 516.2,
+          "fundedScore": 516.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 247.8,
+          "fundedScore": 249.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 275.6,
+          "fundedScore": 279.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 328.9,
+          "fundedScore": 328.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 426.0,
+          "fundedScore": 426.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 263.3,
+          "fundedScore": 263.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 385.0,
+          "fundedScore": 385.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Geologiya və geofizika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.1,
+          "fundedScore": 250.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Geologiya və geofizika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 246.4,
+          "fundedScore": 246.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 256.1,
+          "fundedScore": 256.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 460.3,
+          "fundedScore": 460.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 540.7,
+          "fundedScore": 540.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 492.0,
+          "fundedScore": 492.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 574.3,
+          "fundedScore": 574.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 451.5,
+          "fundedScore": 451.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 561.4,
+          "fundedScore": 561.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 425.0,
+          "fundedScore": 425.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 506.3,
+          "fundedScore": 506.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 344.5,
+          "fundedScore": 344.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 381.9,
+          "fundedScore": 381.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 315.8,
+          "fundedScore": 315.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 379.0,
+          "fundedScore": 379.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 256.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Materiallar mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 257.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 261.5,
+          "fundedScore": 261.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 311.3,
+          "fundedScore": 311.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 333.4,
+          "fundedScore": 347.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 396.5,
+          "fundedScore": 396.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mədən mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 210.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 87.8,
+          "fundedScore": 87.8,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mədən mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 318.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 426.8,
+          "fundedScore": 426.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 505.4,
+          "fundedScore": 505.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 357.7,
+          "fundedScore": 357.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 414.5,
+          "fundedScore": 414.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 258.3,
+          "fundedScore": 258.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 277.6,
+          "fundedScore": 277.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 321.6,
+          "fundedScore": 321.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 432.1,
+          "fundedScore": 432.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Texniki Universiteti",
+      "programs": [
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 407.8,
+          "fundedScore": 407.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 505.2,
+          "fundedScore": 505.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Aerokosmik mühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 217.7,
+          "fundedScore": 243.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Cihaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 241.7,
+          "fundedScore": 241.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Data analitikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 313.3,
+          "fundedScore": 504.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Data analitikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 351.5,
+          "fundedScore": 496.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 219.1,
+          "fundedScore": 246.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 317.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 289.2,
+          "fundedScore": 289.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 321.5,
+          "fundedScore": 321.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 256.9,
+          "fundedScore": 256.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 410.5,
+          "fundedScore": 410.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 515.0,
+          "fundedScore": 515.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 489.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 437.7,
+          "fundedScore": 437.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 534.2,
+          "fundedScore": 534.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 445.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 296.2,
+          "fundedScore": 439.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 446.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 379.7,
+          "fundedScore": 379.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 509.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 468.8,
+          "fundedScore": 468.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 333.3,
+          "fundedScore": 333.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 277.8,
+          "fundedScore": 277.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 206.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 88.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 202.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 88.8,
+          "fundedScore": 88.8,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Materiallar mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 207.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Materiallar mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 211.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 249.8,
+          "fundedScore": 249.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 352.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 307.9,
+          "fundedScore": 347.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 351.4,
+          "fundedScore": 351.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Metallurgiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 277.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 60.5,
+          "fundedScore": 60.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mədən mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 202.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": 75.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mühəndislik fizikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 205.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 207.1,
+          "fundedScore": 207.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Proqram təminatı mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 318.5,
+          "fundedScore": 463.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 347.5,
+          "fundedScore": 347.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 357.6,
+          "fundedScore": 357.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 244.1,
+          "fundedScore": 244.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 272.3,
+          "fundedScore": 275.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 297.3,
+          "fundedScore": 297.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Xüsusi rabitə vasitələri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 235.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Silah sistemləri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 259.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sistemlər mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 365.6,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Memarlıq və İnşaat Universiteti",
+      "programs": [
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 210.9,
+          "fundedScore": 243.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 260.5,
+          "fundedScore": 272.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 271.7,
+          "fundedScore": 271.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 300.1,
+          "fundedScore": 300.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Geomatika və geodeziya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 210.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 87.7,
+          "fundedScore": 87.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 230.8,
+          "fundedScore": 230.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 372.2,
+          "fundedScore": 372.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 423.4,
+          "fundedScore": 423.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 404.2,
+          "fundedScore": 404.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 456.2,
+          "fundedScore": 456.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 302.6,
+          "fundedScore": 302.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 370.8,
+          "fundedScore": 370.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 377.9,
+          "fundedScore": 377.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kommunikasiya sistemləri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 203.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 84.7,
+          "fundedScore": 84.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kommunikasiya sistemləri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 270.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 268.3,
+          "fundedScore": 268.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 226.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 85.2,
+          "fundedScore": 85.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Materiallar mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 226.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 76.9,
+          "fundedScore": 76.9,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 244.3,
+          "fundedScore": 244.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Meliorasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 206.3,
+          "fundedScore": 223.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 253.6,
+          "fundedScore": 389.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 202.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 92.9,
+          "fundedScore": 92.9,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Nəqliyyat tikintisi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 209.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 80.4,
+          "fundedScore": 80.4,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 340.8,
+          "fundedScore": 340.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 293.2,
+          "fundedScore": 293.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Şəhərsalma",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 266.1,
+          "fundedScore": 266.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Daşınmaz əmlakın idarə olunması",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 265.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 244.5,
+          "fundedScore": 244.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 213.8,
+          "fundedScore": 233.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 279.3,
+          "fundedScore": 279.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 361.0,
+          "fundedScore": 361.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Pedaqoji Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 258.0,
+          "fundedScore": 294.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 300.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 312.4,
+          "fundedScore": 312.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 320.9,
+          "fundedScore": 320.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 354.2,
+          "fundedScore": 406.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 414.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Riyaziyyat və fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 431.6,
+          "fundedScore": 475.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 366.5,
+          "fundedScore": 366.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Texnologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 201.3,
+          "fundedScore": 217.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "branch": "Şamaxı filialı"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 260.4,
+          "fundedScore": 260.4,
+          "isSubBachelor": false,
+          "branch": "Şamaxı filialı"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 261.3,
+          "fundedScore": 261.3,
+          "isSubBachelor": false,
+          "branch": "Şəki filialı"
+        },
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 296.8,
+          "isSubBachelor": false,
+          "branch": "Ağcabədi filialı"
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.8,
+          "fundedScore": 444.9,
+          "isSubBachelor": false,
+          "branch": "Ağcabədi filialı"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 251.7,
+          "fundedScore": 251.7,
+          "isSubBachelor": false,
+          "branch": "Ağcabədi filialı"
+        },
+        {
+          "programName": "Aqronomluq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 181.6,
+          "isSubBachelor": false,
+          "branch": "Cəlilabad filialı"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 80.2,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 235.1,
+          "fundedScore": 457.1,
+          "isSubBachelor": false,
+          "branch": "Quba filialı"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 276.8,
+          "fundedScore": 276.8,
+          "isSubBachelor": false,
+          "branch": "Quba filialı"
+        },
+        {
+          "programName": "Aqronomluq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 194.2,
+          "fundedScore": 194.2,
+          "isSubBachelor": false,
+          "branch": "Quba filialı"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət İqtisad Universiteti",
+      "programs": [
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 570.6,
+          "fundedScore": 570.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 299.5,
+          "fundedScore": 299.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 410.1,
+          "fundedScore": 410.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 428.4,
+          "fundedScore": 428.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 570.5,
+          "fundedScore": 570.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 625.9,
+          "fundedScore": 625.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 591.3,
+          "fundedScore": 591.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 635.1,
+          "fundedScore": 635.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kommunikasiya sistemləri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 327.9,
+          "fundedScore": 336.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 551.1,
+          "fundedScore": 551.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 615.9,
+          "fundedScore": 615.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 361.4,
+          "fundedScore": 361.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 378.7,
+          "fundedScore": 378.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 217.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 90.7,
+          "fundedScore": 90.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Materiallar mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 220.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 87.8,
+          "fundedScore": 87.8,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 345.3,
+          "fundedScore": 345.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 270.1,
+          "fundedScore": 271.6,
+          "isSubBachelor": false,
+          "branch": "Zaqatala filialı"
+        }
+      ]
+    },
+    {
+      "name": "Bakı Mühəndislik Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.0,
+          "fundedScore": 258.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fizika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.0,
+          "fundedScore": 257.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 394.0,
+          "fundedScore": 394.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 488.7,
+          "fundedScore": 488.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 527.0,
+          "fundedScore": 527.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 329.5,
+          "fundedScore": 329.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Data analitikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 361.5,
+          "fundedScore": 501.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 209.8,
+          "fundedScore": 262.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 228.9,
+          "fundedScore": 258.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 259.9,
+          "fundedScore": 259.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 316.9,
+          "fundedScore": 316.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 232.7,
+          "fundedScore": 232.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 392.3,
+          "fundedScore": 392.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 467.5,
+          "fundedScore": 467.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 443.4,
+          "fundedScore": 443.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 553.6,
+          "fundedScore": 553.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 289.5,
+          "fundedScore": 289.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 226.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 316.3,
+          "fundedScore": 438.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 485.7,
+          "fundedScore": 485.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kommunikasiya sistemləri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 223.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 83.5,
+          "fundedScore": 83.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 389.9,
+          "fundedScore": 389.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 493.4,
+          "fundedScore": 493.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 318.6,
+          "fundedScore": 323.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 247.9,
+          "fundedScore": 248.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 284.5,
+          "fundedScore": 285.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 204.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 79.6,
+          "fundedScore": 79.6,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 234.9,
+          "fundedScore": 239.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 267.4,
+          "fundedScore": 267.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 239.7,
+          "fundedScore": 289.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 300.4,
+          "fundedScore": 348.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 276.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 88.8,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 290.0,
+          "fundedScore": 290.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 214.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 91.5,
+          "fundedScore": 91.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Nəqliyyat tikintisi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 251.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 75.9,
+          "fundedScore": 75.9,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Proqram təminatı mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 303.4,
+          "fundedScore": 521.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 346.5,
+          "fundedScore": 346.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 360.9,
+          "fundedScore": 360.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 229.4,
+          "fundedScore": 229.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 279.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 87.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 237.6,
+          "fundedScore": 291.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Şəhərsalma",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 230.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Şərabçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 183.3,
+          "fundedScore": 183.9,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası",
+      "programs": [
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 519.2,
+          "fundedScore": 519.2,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "ADA Universiteti",
+      "programs": [
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 697.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 590.6,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 621.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 422.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 538.1,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 662.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 400.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kənd təsərrüfatı texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 390.1,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 656.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 463.6,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Qida texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 412.5,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 514.1,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Şəhərsalma",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 400.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Heyvandarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 400.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 91.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Heyvandarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 300.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Rəssamlıq Akademiyası",
+      "programs": [
+        {
+          "programName": "Memarlıq (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": true,
+          "paidScore": 200.0,
+          "fundedScore": 281.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 88.4,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Turizm və Menecment Universiteti",
+      "programs": [
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 246.7,
+          "fundedScore": 289.8,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Milli Aviasiya Akademiyası",
+      "programs": [
+        {
+          "programName": "Aerokosmik mühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 318.2,
+          "fundedScore": 318.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aerokosmik mühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 418.8,
+          "fundedScore": 418.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Aviasiya təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 349.3,
+          "fundedScore": 349.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aviasiya təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 392.8,
+          "fundedScore": 392.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Cihaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 257.0,
+          "fundedScore": 257.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Cihaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 332.0,
+          "fundedScore": 332.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 248.0,
+          "fundedScore": 248.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 249.8,
+          "fundedScore": 252.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 323.3,
+          "fundedScore": 323.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 309.3,
+          "fundedScore": 316.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 265.4,
+          "fundedScore": 265.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Hava nəqliyyatının hərəkətinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 430.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Hava nəqliyyatının hərəkətinin təşkili",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 400.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 393.6,
+          "fundedScore": 393.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 449.9,
+          "fundedScore": 449.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 394.5,
+          "fundedScore": 394.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 360.7,
+          "fundedScore": 360.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 398.0,
+          "fundedScore": 398.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Materiallar mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 237.8,
+          "fundedScore": 237.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 270.7,
+          "fundedScore": 276.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 283.2,
+          "fundedScore": 290.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 347.4,
+          "fundedScore": 347.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 360.4,
+          "fundedScore": 360.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mühəndislik fizikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 255.3,
+          "fundedScore": 255.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 354.4,
+          "fundedScore": 354.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 271.3,
+          "fundedScore": 271.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Uçuş mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 528.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Uçuş mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 400.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Dəniz Akademiyası",
+      "programs": [
+        {
+          "programName": "Dəniz naviqasiyası mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 230.7,
+          "fundedScore": 344.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Dəniz naviqasiyası mühəndisliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Dəniz naviqasiyası mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 389.2,
+          "fundedScore": 389.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 241.2,
+          "fundedScore": 241.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 305.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Gəmi energetik qurğularının istismarı mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 251.9,
+          "fundedScore": 275.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Gəmi energetik qurğularının istismarı mühəndisliyi",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 70.8,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Gəmi energetik qurğularının istismarı mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 296.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Gəmiqayırma və gəmi təmiri mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 225.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 62.8,
+          "fundedScore": 62.8,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Bakı Ali Neft Məktəbi",
+      "programs": [
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 674.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 601.1,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Data analitikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 652.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Data analitikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 400.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 675.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 642.9,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 669.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 581.9,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 658.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 400.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 643.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 546.8,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 635.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 453.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Dövlət Gömrük Komitəsinin Akademiyası",
+      "programs": [
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 446.2,
+          "fundedScore": 446.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 457.4,
+          "fundedScore": 457.4,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Türkiyə-Azərbaycan Universiteti",
+      "programs": [
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 578.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 401.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 507.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Naxçıvan Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 297.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 463.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 501.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 261.6,
+          "fundedScore": 261.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Texnologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 168.8,
+          "fundedScore": 217.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fizika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.0,
+          "fundedScore": 279.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.0,
+          "fundedScore": 262.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 294.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 72.6,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 179.8,
+          "fundedScore": 250.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 305.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 80.7,
+          "fundedScore": 80.8,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 280.8,
+          "fundedScore": 280.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 269.1,
+          "fundedScore": 270.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 356.9,
+          "fundedScore": 356.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 428.9,
+          "fundedScore": 428.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 438.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 265.1,
+          "fundedScore": 270.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 296.5,
+          "fundedScore": 296.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 309.6,
+          "fundedScore": 309.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Meliorasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": 78.3,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 284.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 72.2,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 355.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 85.6,
+          "fundedScore": 85.6,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 265.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 98.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 150.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 239.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 89.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Dövlət Aqrar Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Aqromühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 177.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aqromühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 188.7,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 235.3,
+          "fundedScore": 243.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 228.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 87.9,
+          "fundedScore": 87.9,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 205.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 88.9,
+          "fundedScore": 88.9,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya texnologiyaları (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 281.3,
+          "fundedScore": 281.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 276.6,
+          "fundedScore": 276.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 252.4,
+          "fundedScore": 279.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 220.5,
+          "fundedScore": 224.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 77.9,
+          "fundedScore": 77.9,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Meliorasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 183.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Şərabçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 159.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aqronomluq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 169.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aqronomluq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 172.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aqronomluq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 187.3,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Aqronomluq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 179.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Balıqçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 150.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Balıqçılıq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 153.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 70.2,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Meşəçilik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 150.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 85.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 181.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 168.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 167.7,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 163.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 213.3,
+          "fundedScore": 232.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": 163.4,
+          "fundedScore": 358.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Zoomühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 150.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Zoomühəndislik",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 155.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Zoomühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Türk"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 85.5,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Gəncə Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 269.2,
+          "fundedScore": 295.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 353.4,
+          "fundedScore": 406.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 349.4,
+          "fundedScore": 349.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Texnologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 179.1,
+          "fundedScore": 221.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 299.8,
+          "fundedScore": 299.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 171.9,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 440.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 71.2,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 74.3,
+          "fundedScore": 74.6,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Texnologiya Universiteti (Gəncə şəhəri)",
+      "programs": [
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 177.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 205.3,
+          "fundedScore": 208.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 242.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 75.5,
+          "fundedScore": 75.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 259.8,
+          "fundedScore": 269.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 237.9,
+          "fundedScore": 330.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.4,
+          "fundedScore": 270.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 214.3,
+          "fundedScore": 308.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 193.2,
+          "fundedScore": 231.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Maşın mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 73.0,
+          "fundedScore": 73.0,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Metallurgiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 234.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": 59.3,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 86.0,
+          "fundedScore": 86.0,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 226.7,
+          "fundedScore": 266.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 173.3,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 69.7,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Şərabçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 156.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Şərabçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 150.0,
+          "fundedScore": 167.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Sumqayıt Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 218.1,
+          "fundedScore": 299.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 288.9,
+          "fundedScore": 289.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 273.8,
+          "fundedScore": 423.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 480.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 306.8,
+          "fundedScore": 306.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fizika",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.0,
+          "fundedScore": 277.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.0,
+          "fundedScore": 259.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 203.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 221.5,
+          "fundedScore": 222.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 209.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 90.4,
+          "fundedScore": 90.4,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 310.0,
+          "fundedScore": 310.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 290.3,
+          "fundedScore": 327.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 529.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 78.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 72.5,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 299.9,
+          "fundedScore": 299.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Logistika və nəqliyyat texnologiyaları mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 220.5,
+          "fundedScore": 232.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 219.0,
+          "fundedScore": 225.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 211.4,
+          "fundedScore": 224.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 278.4,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 429.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 85.1,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 290.8,
+          "fundedScore": 290.8,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Mingəçevir Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 235.3,
+          "fundedScore": 318.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 251.7,
+          "fundedScore": 251.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 299.7,
+          "fundedScore": 409.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 302.2,
+          "fundedScore": 302.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Texnologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 175.5,
+          "fundedScore": 213.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.0,
+          "fundedScore": 295.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 84.7,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.0,
+          "fundedScore": 296.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 91.6,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 173.0,
+          "fundedScore": 279.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 216.4,
+          "fundedScore": 236.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Energetika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 206.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 85.4,
+          "fundedScore": 85.4,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Həyat fəaliyyətinin təhlükəsizliyi mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 226.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 78.9,
+          "fundedScore": 78.9,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 251.0,
+          "fundedScore": 268.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 242.4,
+          "fundedScore": 327.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 257.7,
+          "fundedScore": 270.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Nəqliyyat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 330.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 88.1,
+          "fundedScore": 88.1,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Proseslərin avtomatlaşdırılması mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 216.6,
+          "fundedScore": 265.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Sənaye mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 279.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Lənkəran Dövlət Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 295.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 213.0,
+          "fundedScore": 416.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 292.5,
+          "fundedScore": 292.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Texnologiya müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 180.4,
+          "fundedScore": 209.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aqromühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 168.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 246.5,
+          "fundedScore": 269.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 238.0,
+          "fundedScore": 331.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 250.6,
+          "fundedScore": 270.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 193.1,
+          "fundedScore": 287.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Şərabçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 150.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 58.4,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Aqronomluq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 164.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Aqronomluq",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 160.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Meşəçilik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 151.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 77.7,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Meşəçilik",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 153.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 92.6,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 169.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Qiyabi",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 161.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Zoomühəndislik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 150.0,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 62.3,
+          "isSubBachelor": true
+        }
+      ]
+    },
+    {
+      "name": "Qarabağ Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 353.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 376.4,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Riyaziyyat",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 400.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Data analitikası",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 449.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 450.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 502.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 450.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 522.9,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": null,
+          "fundedScore": 419.9,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 450.0,
+          "fundedScore": null,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Azərbaycan Kooperasiya Universiteti",
+      "programs": [
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 191.5,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 284.8,
+          "fundedScore": 284.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 217.8,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Şərabçılıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 174.5,
+          "fundedScore": 174.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Torpaqşünaslıq və aqrokimya",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 199.3,
+          "fundedScore": 199.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 187.5,
+          "fundedScore": 233.3,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "“Azərbaycan” Universiteti",
+      "programs": [
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 327.8,
+          "fundedScore": 327.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 296.2,
+          "fundedScore": 328.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 302.2,
+          "fundedScore": 326.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 322.1,
+          "fundedScore": 322.1,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Qərbi Kaspi Universiteti",
+      "programs": [
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 303.9,
+          "fundedScore": 303.9,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 328.5,
+          "fundedScore": 328.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Cihaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 83.1,
+          "fundedScore": 83.1,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Ekologiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 181.5,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 307.6,
+          "fundedScore": 307.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 317.0,
+          "fundedScore": 317.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 248.0,
+          "fundedScore": 348.5,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 280.6,
+          "fundedScore": 329.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 301.7,
+          "fundedScore": 301.7,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 312.7,
+          "fundedScore": 312.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Qida mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 213.2,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 267.1,
+          "fundedScore": null,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Mexatronika və robototexnika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 239.2,
+          "fundedScore": 348.8,
+          "isSubBachelor": false,
+          "languageOfInstruction": "Alman"
+        },
+        {
+          "programName": "Meşəçilik",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 165.1,
+          "fundedScore": 165.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Yerquruluşu və daşınmaz əmlakın kadastrı",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 196.0,
+          "fundedScore": 232.4,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "Xəzər Universiteti",
+      "programs": [
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 311.2,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Fizika müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 346.7,
+          "fundedScore": 346.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi (tədris Azərbaycan dilində)",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 330.3,
+          "fundedScore": 330.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter elmləri",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 421.3,
+          "fundedScore": 421.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Elektrik və elektronika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 239.4,
+          "fundedScore": 258.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 472.7,
+          "fundedScore": 472.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnşaat mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 252.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 86.5,
+          "fundedScore": 86.5,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kimya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 436.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 51.0,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 359.2,
+          "fundedScore": 359.2,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Mexanika mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 221.5,
+          "fundedScore": 232.6,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 281.6,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 83.6,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Memarlıq",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 280.0,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 78.3,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Neft-qaz mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 200.0,
+          "fundedScore": 390.5,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Subbakalavrlar üzrə",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 77.8,
+          "fundedScore": null,
+          "isSubBachelor": true
+        },
+        {
+          "programName": "Radiotexnika və telekommunikasiya mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 223.5,
+          "fundedScore": 269.3,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Bakı Avrasiya Universiteti",
+      "programs": [
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 293.6,
+          "fundedScore": 293.6,
+          "isSubBachelor": false
+        }
+      ]
+    },
+    {
+      "name": "“Odlar Yurdu” Universiteti",
+      "programs": [
+        {
+          "programName": "Riyaziyyat və informatika (rəqəmsal bacarıqlar) müəllimliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 272.1,
+          "fundedScore": 272.1,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 302.8,
+          "fundedScore": 302.8,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 316.4,
+          "fundedScore": 316.4,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 280.3,
+          "fundedScore": 334.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 253.4,
+          "fundedScore": 326.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 299.1,
+          "fundedScore": 299.1,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "Kompüter mühəndisliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 310.7,
+          "fundedScore": 310.7,
+          "isSubBachelor": false,
+          "languageOfInstruction": "İngilis"
+        }
+      ]
+    },
+    {
+      "name": "Bakı Biznes Universiteti",
+      "programs": [
+        {
+          "programName": "İnformasiya texnologiyaları",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 289.3,
+          "fundedScore": 289.3,
+          "isSubBachelor": false
+        },
+        {
+          "programName": "İnformasiya təhlükəsizliyi",
+          "studyForm": "Əyani",
+          "requiresAptitudeExam": false,
+          "paidScore": 278.0,
+          "fundedScore": 339.2,
+          "isSubBachelor": false
+        }
+      ]
+    }
+  ]
 }
