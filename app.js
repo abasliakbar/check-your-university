@@ -10,6 +10,7 @@ const uniFilter = $('#university-filter');
 const tableBody = $('#table-body');
 const emptyState = $('#empty-state');
 const tableWrap = $('.table-wrap');
+const loadingPlaceholder = $('#loading-placeholder');
 const groupTabs = $$('.group-tab');
 
 let currentGroup = 1;
@@ -27,14 +28,15 @@ const normalizeText = (text) => {
 
 // Fetch data for a given group
 async function loadGroup(groupId) {
+    loadingPlaceholder.hidden = false;
     try {
         const res = await fetch(`data/groups/group-${groupId}.json`);
         currentGroupData = await res.json();
-        
+
         // Flatten programs for easier filtering, add university reference
         allPrograms = [];
         uniFilter.innerHTML = '<option value="">Bütün universitetlər</option>';
-        
+
         currentGroupData.universities.forEach(u => {
             uniFilter.add(new Option(u.name, u.name));
             u.programs.forEach(p => {
@@ -45,11 +47,13 @@ async function loadGroup(groupId) {
                 });
             });
         });
-        
+
         render();
     } catch (e) {
         console.error("Failed to load group data", e);
         tableBody.innerHTML = `<tr><td colspan="6" class="error-cell">Məlumat yüklənərkən xəta baş verdi.</td></tr>`;
+    } finally {
+        loadingPlaceholder.hidden = true;
     }
 }
 

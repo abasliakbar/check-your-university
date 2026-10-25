@@ -1,19 +1,26 @@
 <!doctype html>
 <html lang="az">
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="CRm6Fo5tFDSr9nAn54M6N-2AulLsEaD28o5wSk37kDA">
     <meta name="description" content="Abituriyentlər üçün universitet keçid balları kalkulyatoru və bələdçisi. Topladığınız bala uyğun ixtisasları asanlıqla tapın.">
+    <meta property="og:title" content="Keçid Balları">
+    <meta property="og:description" content="Abituriyentlər üçün universitet keçid balları kalkulyatoru və bələdçisi. Topladığınız bala uyğun ixtisasları asanlıqla tapın.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://check-your-university.vercel.app/">
+    <meta property="og:image" content="https://check-your-university.vercel.app/og-image.png">
+    <meta name="twitter:card" content="summary_large_image">
     <title>Keçid Balları</title>
+    <link rel="icon" href="/favicon.ico" sizes="32x32" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&subset=latin,latin-ext&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
+    <a href="#main-content" class="skip-to-content">Skip to main content</a>
     <header class="site-header">
         <div class="container">
             <div class="topbar">
@@ -63,7 +70,7 @@
         </div>
     </section>
 
-    <main class="main-content">
+    <main class="main-content" id="main-content">
         <div class="container">
             <div class="section-heading">
                 <h2>Universitet keçid balları</h2>
@@ -72,7 +79,7 @@
                 <button class="group-tab active" data-group="1" role="tab" aria-selected="true">1-ci qrup</button>
                 <button class="group-tab" data-group="2" role="tab" aria-selected="false">2-ci qrup</button>
                 <button class="group-tab" data-group="3" role="tab" aria-selected="false">3-ci qrup</button>
-                <button class="group-tab" data-group="4" role="tab" aria-selected="false">4-cü qrup</button>
+                <button class="group-tab" data-group="4" role="tab" aria-selected="false">4-ci qrup</button>
                 <button class="group-tab" data-group="5" role="tab" aria-selected="false">5-ci qrup</button>
             </div>
             <div class="directory">
@@ -91,6 +98,12 @@
                         <input id="eligible-only" type="checkbox" disabled>
                         <span>Yalnız uyğunlar</span>
                     </label>
+                </div>
+                <div class="loading-placeholder" id="loading-placeholder" aria-label="Yükləmə..." hidden>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
                 </div>
                 <div class="table-wrap">
                     <table>
@@ -125,5 +138,4 @@
     </script>
     <script defer src="/_vercel/insights/script.js"></script>
 </body>
-
 </html>
