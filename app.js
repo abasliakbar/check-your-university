@@ -12,6 +12,8 @@ const emptyState = $('#empty-state');
 const tableWrap = $('.table-wrap');
 const loadingPlaceholder = $('#loading-placeholder');
 const groupTabs = $$('.group-tab');
+const scoreState = $('#score-state');
+const scoreMotivation = $('#score-motivation');
 
 let currentGroup = 1;
 let currentTotal = null;
@@ -70,6 +72,46 @@ function clamp(input, max) {
 
 function formatScore(score) {
     return score == null ? '—' : score.toLocaleString('az-AZ', { minimumFractionDigits: 1 });
+}
+
+function getScoreState(score) {
+    if (score < 250) {
+        return {
+            level: 'low',
+            label: 'Aşağı',
+            message: 'Daha çox çalışmağa ehtiyacınız var.'
+        };
+    }
+
+    if (score < 500) {
+        return {
+            level: 'normal',
+            label: 'Normal',
+            message: 'Səviyyəniz stabildır, yaxşı seçimlər var.'
+        };
+    }
+
+    return {
+        level: 'high',
+        label: 'Yüksək',
+        message: 'Yüksək nəticə, çoxlu imkanlar açılır.'
+    };
+}
+
+function updateScoreState(score) {
+    if (score == null) {
+        scoreState.textContent = 'Normal';
+        scoreState.dataset.pointState = 'normal';
+        scoreState.className = 'score-state score-state-normal';
+        scoreMotivation.textContent = 'Nəticəni görmək üçün balı daxil et.';
+        return;
+    }
+
+    const state = getScoreState(score);
+    scoreState.textContent = state.label;
+    scoreState.dataset.pointState = state.level;
+    scoreState.className = `score-state score-state-${state.level}`;
+    scoreMotivation.textContent = state.message;
 }
 
 function render() {
@@ -163,6 +205,7 @@ $('#calculate').onclick = () => {
     $('#score-total').textContent = currentTotal;
     $('#gauge-fill').style.strokeDashoffset = 283 * (1 - currentTotal / 700);
     $('#score-caption').textContent = 'Nəticənə uyğun seçimləri araşdır.';
+    updateScoreState(currentTotal);
     eligibleOnly.disabled = false;
 
     // Add pulse animation to result panel
@@ -192,4 +235,5 @@ groupTabs.forEach(tab => {
 });
 
 // Initial load
+updateScoreState(null);
 loadGroup(currentGroup);
